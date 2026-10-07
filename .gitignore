@@ -1,0 +1,4 @@
+/command.txt
+.env
+__pycache__/
+db/
