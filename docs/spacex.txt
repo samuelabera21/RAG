@@ -1,0 +1,891 @@
+SpaceX
+
+Article
+Talk
+Read
+View source
+View history
+
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color
+
+Automatic
+
+Light
+
+Dark
+This is a good article. Click here for more information.
+Page semi-protected
+From Wikipedia, the free encyclopedia
+(Redirected from Spacex)
+This article is about the rocket and spacecraft manufacturer. For the British art gallery, see Spacex (art gallery).
+"Space Exploration Technologies" redirects here. For the general topics, see Space exploration and Space technology.
+Space Exploration Technologies Corp.
+
+Starship (SpaceX's flagship launch vehicle) at SpaceX Starbase in Starbase, Texas
+Trade name SpaceX
+Type Public
+Traded as
+Nasdaq: SPCX (Class A)
+Nasdaq-100 component
+Industry
+Space
+Telecommunications
+Artificial intelligence
+Founded March 14, 2002 (24 years ago) in El Segundo, California, U.S.[1]
+Founder Elon Musk
+Headquarters SpaceX Starbase, Starbase, Texas, U.S.
+Key people
+Elon Musk (CEO, chairman & CTO)[2]
+Gwynne Shotwell (president & COO)[3]
+Products
+Launch vehicles
+Dragon capsules
+Starshield
+Revenue Increase US$18.7 billion (2025)
+Operating income Negative increase US$−2.6 billion (2025)
+Net income Negative increase US$−4.9 billion (2025)
+Total assets Increase US$92.1 billion (2025)
+Total equity Decrease US$2.6 billion (2025)
+Owners
+Elon Musk (49% equity; 84% voting control)[4]
+Alphabet Inc. (4% equity)[5]
+Number of employees 22,621 (April 2026)[6]
+Subsidiaries SpaceXAI
+Starlink
+Website spacex.com
+Footnotes
+Financials as of December 31, 2025.
+References:[2]
+
+This article is part of
+a series about
+Elon Musk
+Personal
+Companies
+Politics
+In the arts and media
+vte
+Space Exploration Technologies Corp., doing business as SpaceX, is an American aerospace manufacturer and provider of space transportation, telecommunications, and artificial intelligence services, headquartered at the Starbase development site in Starbase, Texas.[7][8] The company operates three primary segments: Space, which develops and flies the Falcon 9, Falcon Heavy, and Starship launch vehicles, as well as the Dragon spacecraft, and conducts more orbital launches annually than any other launch provider (including national programs);[9][10] Connectivity, which operates the Starlink satellite constellation and satellite-based high-speed broadband internet service; and AI, conducted through its wholly owned subsidiary SpaceXAI, which develops the Grok family of large language models (LLMs) and related products, operates the social network X (formerly Twitter), and builds and runs large-scale data centers.[11]
+
+The company is credited with advances in rocket propulsion, reusable launch vehicles, human spaceflight, and satellite constellation technology. The company's largest customers include NASA, the United States Space Force, and the National Reconnaissance Office. Elon Musk owns 39% of the outstanding shares of SpaceX (plus a number of vested options and unvested restricted shares) and controls 84% of the voting power via his super-voting stock. SpaceX was founded in 2002 by Elon Musk with the goal of reducing spaceflight costs, improving the reliability of access to outer space for ordinary humans, and colonizing Mars. In 2008, after three failed attempts between 2006 and 2008 that almost pushed the company to bankruptcy, SpaceX successfully launched the Falcon 1 into orbit, becoming the first private company to develop and launch a liquid-fueled rocket to orbit. In 2010, the company launched the Falcon 9 launch vehicle and the Dragon 1 spacecraft to fulfill NASA's Commercial Orbital Transportation Services (COTS) contracts for cargo deliveries to the International Space Station (ISS). In 2012, SpaceX began flying Commercial Resupply Services missions to the ISS, becoming the first private company to successfully dock with the station, and started developing technologies to make the Falcon 9 first stage reusable. In 2015, Falcon 9 flight 20 was the first successful landing of an orbital-class rocket's first stage and the company's SES-10 completed the first reflight of an orbital-class booster in 2017. After a decade of development, the Falcon Heavy, which consists of three Falcon 9-derived boosters, made its maiden flight in 2018. As of May 2026, Falcon 9 launches averaged approximately three missions per week, and Falcon boosters had completed nearly 650 landings and reflights.
+
+In 2019, the first operational satellite of the Starlink internet satellite constellation came online, diversifying the revenue of the company. Starlink has generated the bulk of SpaceX's income and led to its Starshield military counterpart. In 2020, SpaceX began to operate its Dragon 2 capsules for NASA and private entity crewed missions. Around this time, SpaceX began building test prototypes for SpaceX Starship, the largest launch vehicle in history. SpaceX plans to adapt it as a human lander for lunar missions under NASA's Artemis program.[12] In 2026, SpaceX acquired Musk's artificial intelligence company xAI (subsequently operated as the wholly owned subsidiary SpaceXAI), and announced a joint venture with Tesla, Inc. to build Terafab, a large plant for semiconductor device fabrication. The initial public offering of SpaceX on June 12, 2026, which raised $86 billion,[13] was the largest IPO in history and briefly made Musk the first US-dollar trillionaire.[14][15]
+
+History
+Main article: History of SpaceX
+See also: List of Falcon 9 and Falcon Heavy launches
+2001–2002: Founding
+In early 2001, Elon Musk met Robert Zubrin and donated $100,000 to his Mars Society and briefly joined its board of directors.[16]: 30–31 In August 2001, he gave a plenary talk at their fourth convention where he announced Mars Oasis, a project to land a greenhouse and grow plants on Mars.[17][18]
+
+Musk initially attempted to acquire a Dnepr launch vehicle for the project through Russian contacts provided by Jim Cantrell; however, he was unsuccessful.[19]
+
+Musk returned with his team to Moscow, this time bringing Michael D. Griffin, who later became the 11th Administrator of NASA, but found the Russians increasingly unreceptive.[20][21] On the flight home, Musk stated that he could start a company to build the affordable rockets the project required.[21] By applying vertical integration,[20] using inexpensive commercial off-the-shelf components when possible,[21] and adopting the modular approach of modern software engineering, Musk believed SpaceX could significantly cut launch costs.[21]
+
+In early 2002, Elon Musk started to look for staff for his company, soon to be named SpaceX. Musk approached five people for the initial positions, including Griffin, who declined the position of Chief Engineer,[22]: 11 Jim Cantrell and John Garvey (Cantrell and Garvey later founded the company Vector Launch), rocket engineer Tom Mueller, and Chris Thompson.[22][23] SpaceX was first headquartered in a warehouse in El Segundo, California. Early SpaceX employees, such as Tom Mueller (CTO), Gwynne Shotwell (COO), and Chris Thompson (VP of Operations), were previously employed at TRW and Boeing. Musk personally interviewed and approved all of SpaceX's early employees.[22]: 22
+
+2003–2010: Falcon 1, COTS, and Falcon 9
+Main article: Falcon 1
+
+The first successful Falcon 1 launch in September 2008
+SpaceX developed its first orbital launch vehicle, the Falcon 1, with internal funding.[24][25] The Falcon 1 was an expendable two-stage-to-orbit small-lift launch vehicle. The total development cost of Falcon 1 was approximately $90 million[26] to $100 million.[22]: 215 The Falcon rocket series was named after Star Wars's Millennium Falcon fictional spacecraft.[19]
+
+In 2004, SpaceX protested against NASA to the Government Accountability Office (GAO) because of a sole-source contract awarded to Kistler Aerospace. Before the GAO could respond, NASA withdrew the contract, and formed the Commercial Orbital Transportation Services (COTS) program.[22]: 109–110 [27] In 2005, SpaceX announced plans to pursue a human-rated commercial space program through the end of the decade, a program that would later become the Dragon spacecraft.[28]
+
+SpaceX originally intended to follow its light Falcon 1 launch vehicle with an intermediate capacity vehicle, the Falcon 5.[29] The company instead decided in 2005 to proceed with the development of the Falcon 9, a medium-lift launch vehicle intended to be reusable. Development of the Falcon 9 was accelerated by NASA, which committed to purchasing several commercial flights if specific capabilities were demonstrated. In 2006, the company was selected by NASA and awarded $396 million to provide crew and cargo resupply demonstration contracts to the International Space Station (ISS) under the COTS program.[30] The contract provided development funding for the Dragon spacecraft, Falcon 9, and demonstration launches of Falcon 9 with Dragon.[31]
+
+The first two Falcon 1 launches were purchased by the United States Department of Defense under the DARPA Falcon Project which evaluated new U.S. launch vehicles suitable for use in hypersonic missile delivery for Prompt Global Strike.[25][32][33] The first three launches of the rocket, between 2006 and 2008, all resulted in failures, which almost ended the company. Financing for Tesla Motors had failed, as well,[34] and consequently Tesla, SolarCity, and Musk personally were all nearly bankrupt at the same time.[19][22]: 178–182 Musk was reportedly "waking from nightmares, screaming and in physical pain" because of the stress.[22]: 216
+
+The financial situation started to turn around with the first successful launch achieved on the fourth attempt on September 28, 2008.[35] Musk split his remaining $30 million between SpaceX and Tesla, and NASA awarded SpaceX a $1.6 billion Commercial Resupply Services (CRS) contract in December, thus financially saving the company.[22]: 217–221 Based on these factors and the further business operations they enabled, the Falcon 1 was soon retired following its second successful, and fifth total, launch in July 2009.[36] This allowed SpaceX to focus company resources on the development of a larger orbital rocket, the Falcon 9.[37] Gwynne Shotwell was also promoted to company president at the time, for her role in successfully negotiating the CRS contract with the NASA Associate Administrator Bill Gerstenmaier.[38][22]: 222
+
+As part of the COTS contract, the Falcon 9 launched for the first time in June 2010 with the Dragon Spacecraft Qualification Unit, using a mockup of the Dragon spacecraft.
+
+The first operational Dragon spacecraft was launched in December 2010 aboard COTS Demo Flight 1, the Falcon 9's second flight, and safely returned to Earth after two orbits, completing all its mission objectives.[39] By December 2010, the SpaceX production line was manufacturing one Falcon 9 and Dragon every three months.[40]
+
+2011–2018: Falcon 9, Dragon, and NASA contracts
+Duration: 1 minute and 53 seconds.1:53Subtitles available.CC
+Video of the first launch of Falcon 9
+In April 2011, as part of its second-round Commercial Crew Development (CCDev) program, NASA issued a $75 million contract for SpaceX to develop an integrated launch escape system for Dragon in preparation for human-rating it as a crew transport vehicle to the ISS.[41] NASA awarded SpaceX a fixed-price Space Act Agreement (SAA) to produce a detailed design of the crew transportation system in August 2012.[42]
+
+In early 2012, approximately two-thirds of SpaceX stock was owned by Musk[43] and his seventy million shares were then estimated to be worth $875 million on private markets,[44] valuing SpaceX at $1.3 billion.[45] In May 2012, with the Dragon C2+ launch, Dragon became the first commercial spacecraft to deliver cargo to the International Space Station.[46] After the flight, the company private equity valuation nearly doubled to $2.4 billion or $20/share.[47][48] By that time, SpaceX had operated on total funding of approximately $1 billion over its first decade of operation. Of this, private equity provided approximately $200 million, with Musk investing approximately $100 million and other investors having put in about $100 million.[49]
+
+SpaceX's active reusability test program began in late 2012 with testing low-altitude, low-speed aspects of the landing technology.[50] The Falcon 9 prototypes performed vertical takeoffs and landings (VTOL). High-velocity, high-altitude tests of the booster atmospheric return technology began in late 2013.[50]
+
+Commercial launches and rapid growth
+
+Launch of Falcon 9 carrying ORBCOMM OG2-M1, July 2014
+SpaceX launched the first commercial mission for a private customer in 2013. In 2014, SpaceX won nine contracts out of the 20 that were openly competed worldwide.[51] That year Arianespace requested that European governments provide additional subsidies to face the competition from SpaceX.[52][53] Beginning in 2014, SpaceX capabilities and pricing also began to affect the market for launch of U.S. military payloads, which for nearly a decade had been dominated by the large U.S. launch provider United Launch Alliance (ULA).[54] The monopoly had allowed launch costs by the U.S. provider to rise to over $400 million over the years.[55] In September 2014, NASA's Director of Commercial Spaceflight, Kevin Crigler, awarded SpaceX the Commercial Crew Transportation Capability (CCtCap) contract to finalize the development of the Crew Transportation System. The contract included several technical and certification milestones, an uncrewed flight test, a crewed flight test, and six operational missions after certification.[42]
+
+In January 2015, SpaceX raised $1 billion in funding from Google and Fidelity Investments, in exchange for 8.33% of the company, establishing the company valuation at approximately $12 billion.[56][57] The same month SpaceX announced the development of a new satellite constellation, called Starlink, to provide global broadband internet service with 4,000 satellites.[58]
+
+The Falcon 9 had its first major failure in late June 2015, when the seventh ISS resupply mission, CRS-7 exploded two minutes into the flight. The problem was traced to a failed two-foot-long steel strut that held a helium pressure vessel, which broke free due to the force of acceleration. This caused a breach and allowed high-pressure helium to escape into the low-pressure propellant tank, causing the failure.[59]
+
+Reusability milestones
+
+Falcon 9 first stage on an autonomous spaceport drone ship (ASDS) barge after the first successful landing at sea, SpaceX CRS-8 mission
+SpaceX first achieved a successful landing and recovery of a first stage in December 2015 with Falcon 9 Flight 20.[60] In April 2016, the company achieved the first successful landing on the autonomous spaceport drone ship (ASDS) Of Course I Still Love You in the Atlantic Ocean.[61] By October 2016, following the successful landings, SpaceX indicated they were offering their customers a 10% price discount if they choose to fly their payload on a reused Falcon 9 first stage.[62]
+
+A second major rocket failure happened in early September 2016, when a Falcon 9 exploded during a propellant fill operation for a standard pre-launch static fire test. The payload, the AMOS-6 communications satellite valued at $200 million, was destroyed.[63] The explosion was caused by the liquid oxygen that is used as propellant turning so cold that it solidified and ignited with carbon composite helium vessels.[64] Though not considered an unsuccessful flight, the rocket explosion sent the company into a four-month launch hiatus while it worked out what went wrong. SpaceX returned to flight in January 2017.[65]
+
+In March 2017, SpaceX launched a returned Falcon 9 for the SES-10 satellite. This was the first time a re-launch of a payload-carrying orbital rocket went back to space.[66] The first stage was recovered again, also making it the first landing of a reused orbital class rocket.[67]
+
+Leading global commercial launch provider
+In 2017, SpaceX formed a subsidiary, The Boring Company, and began work to construct a short test tunnel on land adjacent to the SpaceX headquarters and manufacturing facility, using a small number of SpaceX employees,[68] which was completed in May 2018,[69] and opened to the public in December 2018.[70] During 2018, The Boring Company was spun out into a separate corporate entity with 6% of the equity going to SpaceX, less than 10% to early employees, and the remainder of the equity to Elon Musk.[70]
+
+In July 2017, the company raised $350 million at a valuation of $21 billion.[71] In 2017, SpaceX achieved a 45% global market share for awarded commercial launch contracts.[72]
+
+By March 2018, SpaceX had more than 100 launches on its manifest representing about $12 billion in contract revenue. The contracts included both commercial and government (NASA/DOD) customers. This made SpaceX the leading global commercial launch provider measured by manifested launches.[73]
+
+2019–2020: Raising capital, Starlink launch, and crewed launches
+In January 2019, SpaceX announced it would lay off 10% of its workforce to help finance the Starlink and Starship projects.[74] The purpose of the Starship vehicle is to enable large-scale transit of humans and cargo to the Moon, Mars, and beyond.[75] SpaceX's Starship is the largest and most powerful rocket ever flown, with a planned payload capacity of 100+ tons.[76][77] Construction of initial prototypes and tests for Starship started in early 2019 in Florida and Texas. All Starship construction and testing moved to the new SpaceX South Texas launch site later that year.
+
+In 2019 SpaceX raised $1.33 billion across three funding rounds.[78] By May 2019, the valuation of SpaceX had risen to $33.3 billion[79] and reached $36 billion by March 2020.[80]
+
+In May 2019, SpaceX launched the first large batch of 60 Starlink satellites, beginning to deploy what would become the world's largest commercial satellite constellation the following year.[81] On August 19, 2020, after a $1.9 billion raise, one of the largest by any private company, valuation increased to $46 billion.[82][83][84]
+
+NASA astronauts Douglas Hurley (left) and Robert Behnken (right) wearing custom-fit spacesuits designed by SpaceX.
+In May 2020, SpaceX successfully launched two NASA astronauts (Doug Hurley and Bob Behnken) into orbit on a Crew Dragon spacecraft during Crew Dragon Demo-2, making SpaceX the first private company to send astronauts to the International Space Station and marking the first crewed orbital launch from American soil in 9 years.[85][86] The mission launched from Kennedy Space Center Launch Complex 39A (LC-39A) in Florida.[87]
+
+2021–present
+In February 2021, SpaceX raised an additional $1.61 billion from 99 investors[88] at a per share value of approximately $420,[84] lifting the valuation to ~$74 billion. By 2021, SpaceX had raised more than $6 billion. Most of the capital raised since 2019 was used to support the Starlink satellite constellation and the development and manufacture of Starship.[88] By October 2021, the valuation grew to $100.3 billion.[89]
+
+On April 16, 2021, Starship HLS won a NASA contract for the Artemis program.[12] In 2021, SpaceX entered into agreements with Google Cloud Platform and Microsoft Azure to provide on-ground computer and networking services for Starlink.[90] A funding round in 2022 valued SpaceX at $127 billion.[91]
+
+In July 2021, SpaceX unveiled another drone ship named A Shortfall of Gravitas, first landing CRS-23 on August 29, 2021.[92] Within the first 130 days of 2022, SpaceX launched 18 rockets and returned two crews. On December 13, 2021, Musk announced that the company was starting a carbon dioxide removal program that would convert captured carbon into rocket fuel,[93][94] after he announced a $100 million donation to the X Prize Foundation the previous February to fund a contest to develop the best carbon capture technology.[95][96]
+
+In 2022, most SpaceX launches focused on Starlink, a consumer internet business that sends batches of internet-beaming satellites and now has over 6,000 satellites in orbit.[97] SpaceX launched a rocket approximately every six days in 2022, with 61 launches in total, the most launches ever of a single vehicle type in a single year.[98] All but one (a Falcon Heavy in November) was a Falcon 9.[98] In August 2022, the European Space Agency (ESA) began discussions with SpaceX to substitute for Russian launches, amid the Russian invasion of Ukraine.[99]
+
+In November 2023, SpaceX announced it would acquire its parachute supplier Pioneer Aerospace out of bankruptcy for $2.2 million.[100][101]
+
+In 2024, SpaceX moved its headquarters from Hawthorne, California, to SpaceX Starbase in Brownsville, Texas, ostensibly because California increasingly became a difficult place to operate.[102] The Hawthorne facility continues to support the company's Falcon launch business.[103]
+
+SpaceX's 2024 Polaris Dawn mission featured the first-ever private spacewalk.[104]
+
+By July 2025, as part of a $5 billion equity raise, SpaceX agreed to invest $2 billion in xAI.[105]
+
+Starlink expansion
+On July 16, 2021, SpaceX entered an agreement to acquire Swarm Technologies, a private company building a low Earth orbit satellite constellation for communications with Internet of things (IoT) devices, for $524 million.[106][107]
+
+In December 2022, the U.S. Federal Communications Commission (FCC) approved the launch of up to 7,500 of SpaceX's next-generation satellites in its Starlink internet network.[108]
+
+In September 2025, SpaceX said it would purchase the rights to use some of EchoStar's spectrum for $17 billion in a cash and stock deal. The company said it would use the spectrum as a foundation for Starlink's direct-to-cell business around the globe.[109]
+
+Starlink in the Russo-Ukrainian war
+These paragraphs are an excerpt from Starlink in the Russo-Ukrainian war.edit
+In February 2022, SpaceX activated their Starlink satellite internet service in Ukraine, to replace internet and communication networks degraded or destroyed during the war.[110][111][112] Starlink provides critical service to Ukrainian civilians, government and military.[111][113] It has aided humanitarian relief as well as defense and counterattacks on Russian positions.[114]
+
+Initially, SpaceX provided and funded Starlink services to Ukraine without charge.[115][116][117] As of June 2023 Starlink expenses for Ukraine were covered by the US Department of Defense.[118] As of December 2023, Poland was the largest contributor of terminals.[119] SpaceX did not extend Starlink availability to Russian-occupied areas such as Crimea.[120][114]
+
+In 2022, Elon Musk denied a Ukrainian request to extend Starlink's coverage up to Russian-occupied Crimea during a counterattack on a Crimean port; providing service would have violated US sanctions.[121] Media reports erroneously characterized it as Musk "turning off" Starlink coverage in Crimea.[122][123] In late 2022, SpaceX announced Starshield, a program designed for government customers.[124][125]
+
+The use of Starlink to attack Russian targets was criticized by Russian officials. Russia's military repeatedly tried to disrupt Starlink services.[126][118] Reportedly, the Russian military at one point obtained Starlink terminals through other countries.[127] This unauthorized Starlink use was eventually blocked.[128] In February 2026, Starlink eliminated service to all terminals in Ukraine not on a whitelist, in order to prevent Russia's fraudulent Starlink use. This significantly disrupted Russian military communications, which had come to rely on Starlink.[129]
+
+Starship
+Main article: SpaceX Starship
+refer to caption
+Starship in launch position
+
+Dragon's Flight: SpaceX Crew-10 launches aboard a SpaceX Falcon 9 rocket carrying the Dragon spacecraft piloted by astronaut and Air Force Maj. Nichole "Vapor" Ayer at Kennedy Space Center, FL, March 14, 2025.
+On April 20, 2023, Starship's first orbital flight test ended in a mid-air explosion over the Gulf of Mexico before booster separation. After launch, multiple engines in the booster progressively failed, causing the vehicle to reach max q later than planned. "Max q" is the point during ascent at which the vehicle experiences the maximum aerodynamic pressure, determined by the combination of air density and velocity as the rocket climbs through the atmosphere. Eventually, the vehicle lost control and spun erratically until the automated flight termination system was activated, which intentionally destroyed the rocket. Elon Musk, SpaceX, and other individuals familiar with the space industry have referred to the test flight as a success.[130][131]
+
+Musk said at the time that it would take "six to eight weeks" to get the infrastructure prepared for another launch. In October 2023, a senior SpaceX executive stated the company had been ready to launch the next test flight since September. He accused government regulators of disrupting the project's progress, adding the delay could lead to China beating U.S. astronauts back to the Moon.[132][133]
+
+On November 18, 2023, SpaceX launched Starship on its second flight test, with both vehicles flying for a few minutes before separately exploding.[134][135][136][137]
+
+In early March 2024 SpaceX announced that it was targeting March 14 as the tentative launch date for its next uncrewed Starship launch configuration flight test, pending the issuance of a "launch license" by the FAA. This license was granted on March 13, 2024.[138] On March 14, 2024, at 13:25 UTC, Starship launched for the third time and for the first time Starship reached its planned suborbital trajectory. The flight ended with the booster experiencing a malfunction shortly before landing and the ship being lost during re-entry over the Indian Ocean.[76][77]
+
+On June 4, 2024, SpaceX received the launch license for Starship's fourth flight test. The licensure itself was notable in that it was the first time that the FAA included a clause that would allow SpaceX to launch subsequent test flights without a mishap investigation, provided that they met a similar launch profile and used the same specification of hardware. The provision could prove to speed the development timeline.[139]
+
+On October 12, 2024, SpaceX received FAA approval for Starship's fifth flight test.[140] The flight was the first without engine failures, and the first successful tower catch.[141]
+
+SpaceX launched Starship on its sixth flight test on November 19, 2024.[142] The booster aborted the catch attempt, while the ship conducted a relight in space.[143][144]
+
+On January 16, 2025, SpaceX launched Starship on its seventh flight test, with the first Block 2 Ship, Ship 33, standing at 403 feet (123 m). This test also carried a demonstration payload, a Starlink V3 simulator. The test launched at 22:37 UTC. The test resulted in the second catch of the Super Heavy booster, B14, but after 8 minutes, SpaceX lost contact with 'Ship', which is the upper stage of the Starship which resulted in the failure of the ship during the ascent. The spacecraft reportedly exploded around 8.5 minutes after launch over the Atlantic Ocean near the Turks and Caicos Islands. The FAA, on January 18, required a mishap investigation of the failure.[145]
+
+On March 7, 2025, SpaceX launched another Starship rocket, this time from Texas. Contact was lost minutes into the test flight and the spacecraft came tumbling down and broke apart, with wreckage seen across Florida's skies.[146] As per preliminary investigation, Starship's 7th test flight was disrupted by an oxygen leak, flashes and sustained fires in its aft section, which caused the rocket's engines to shut down and turn on the spacecraft's self-destruct system.[147]
+
+On June 18, 2025, a SpaceX Starship rocket exploded during a static fire test at the company's Starbase facility in Texas, following what the company described as a "major anomaly".[148] Cameron County Judge Eddie Treviño Jr. contacted 10 federal and state offices to ask about their roles in probes regarding the explosion, with each department declining to investigate, which created regulatory concerns. Brownsville City Manager Helen Ramirez stated that the Brownsville Fire Department was underequipped to handle fire events created by rocket explosions. Not long after the explosion, several SpaceX employees filed documents with the Texas Secretary of State to form the Starbase Volunteer Fire Department, intending to respond to calls within city limits, not including the test site. While cleaning the site, a crane collapse in relation to safety violations would cause the Occupational Safety and Health Administration to fine SpaceX approximately $116,000.[149]
+
+On May 22, 2026, SpaceX successfully launched the twelfth flight test of Starship. This was the first flight of the V3 vehicle, incorporating Raptor 3 engines. It was also the first flight test to carry a payload into orbit, lofting approximately 44,000 kg (97,000 lbs) of Starlink mass simulators. During launch, one of the 33 Raptor 3 engines on the Super Heavy first stage shut down early, and one of the 6 Starship upper-stage engines shut down prematurely, but despite the engine-out, the vehicle achieved its planned suborbital trajectory.[150] The booster suffered a subsequent anomaly and was destroyed before splashdown over the Gulf of Mexico, while the ship safely completed its orbital pass and achieved a targeted soft splashdown in the Indian Ocean near Australia.
+
+On September 29, 2026, the fourteenth starship flight test the Starship achieved orbit for the first time and deployed 26 Starlink V3 satellites. The mission was only a partial success due to engine failure and a reduction in planned flight time.[151]
+
+xAI acquisition, Terafab, and Starfall
+On February 2, 2026, SpaceX announced that it had acquired xAI, an artificial intelligence company also founded by Musk, in an all-stock transaction that structured xAI as a wholly owned subsidiary of SpaceX.[152] The acquisition combines SpaceX's rocket and satellite capabilities with xAI's artificial intelligence technology. SpaceX stated that the goal is to develop space-based AI data centers to overcome the power and cooling limitations of terrestrial facilities. The plan includes deploying large numbers of satellites to provide AI compute capacity and exploring long-term operations on the Moon and Mars.[153] The acquisition valued SpaceX at $1T and xAI at $250B, for a combined total of $1.25T. It was the highest valued business acquisition in history.[154][155]
+
+In March, SpaceX announced the project to build Terafab, a joint project with Tesla and xAI, to build a large semiconductor fabrication project centering on the construction of a vertically integrated "mega-fab" designed to produce more than one terawatt (one trillion watts) of artificial intelligence compute capacity per year, encompassing advanced logic chips, memory modules, and packaging technologies. They will initially build a much smaller fast-iteration semiconductor fab, with all functions under one roof, at the existing Giga Texas property near Austin, Texas.[156][157] The following month, The New York Times reported that SpaceX had agreed to acquire Cursor, an AI-assisted software development startup, for $60 billion.[158]
+
+In May 2026, Anthropic signed a contract of $1.25 billion per month with xAI, a subsidiary of SpaceX, to buy all the compute capacity at the Colossus 1 data center in Memphis, Tennessee.[159][160] According to a June securities filing, Google and SpaceX agreed on a computational rent agreement. Google will pay $920 million a month to SpaceX for the use of Nvidia chips from October 2026 until June 2029.[161]
+
+On May 15, the company received FAA approval for its Starfall orbit-to-Earth delivery capsule.[162][163]
+
+Initial public offering
+Main article: Initial public offering of SpaceX
+In December 2025, Elon Musk confirmed that SpaceX would go public, after previously rejecting the idea.[164] In January 2026, four banks were selected to lead the IPO.[165][166][167][168] The shareholding structure effectively prevents anyone but Musk from firing him from his role as chief executive and board chair.[169]
+
+On May 20, 2026, SpaceX filed for an initial public offering (IPO) on Nasdaq under the ticker symbol SPCX.[170][171] On June 11, 2026, SpaceX priced its IPO at $135 per share, giving the company a valuation of $1.77 trillion, making it the highest-valued IPO ever.[171] The offering raised $75 billion, making it the largest IPO by proceeds on record.[172] It began trading on the Nasdaq on June 12 under the ticker symbol SPCX.[172]
+
+Starmind
+Main article: Starmind (satellite)
+SpaceXAI is in the development phase for a solar-powered space-based data center named Starmind. Starmind is self-described by the company as an "orbital satellite with localized compute that takes advantage of readily available power and cooling in space and beams back data via high-bandwidth lasers to the Starlink constellation." The first-generation Starmind AI1 satellite is to have a wingspan of 75 m (246 ft 1 in) and a deployed height of 30 m (98 ft 5 in), with up to 250 kW peak and 175 kW average compute payload.[173] In August 2026, Nvidia announced the internal compute of the satellite would be based on an optimized Nvidia Vera Rubin (NVL72) system.[174]
+
+Hardware
+Launch vehicles
+Main article: SpaceX launch vehicles
+
+The landing of a Falcon 9 Block 5 first stage at Cape Canaveral in July 2019. VTVL technologies are used in many of SpaceX's launch vehicles.
+SpaceX has developed three launch vehicles. The small-lift Falcon 1 was the first launch vehicle developed and was retired in 2009. The medium-lift Falcon 9 and the heavy-lift Falcon Heavy are both operational.
+
+Falcon 1 was a small rocket capable of placing several hundred kilograms into low Earth orbit. It launched five times between 2006 and 2009, of which two were successful.[175] The Falcon 1 was the first privately funded, liquid-fueled rocket to reach orbit.[176]
+
+Falcon 9 is a medium-lift launch vehicle capable of delivering up to 22,800 kilograms (50,265 lb) to orbit, competing with the Delta IV and the Atlas V rockets, as well as other launch providers around the world. It has nine Merlin engines in its first stage. The Falcon 9 v1.0 rocket successfully reached orbit on its first attempt on June 4, 2010. Its third flight, COTS Demo Flight 2, launched on May 22, 2012, and launched the first commercial spacecraft to reach and dock with the International Space Station (ISS).[46] The vehicle was upgraded to Falcon 9 v1.1 in 2013, Falcon 9 Full Thrust in 2015, and finally to Falcon 9 Block 5 in 2018. The first stage of Falcon 9 is designed to retro propulsively land, be recovered, and flown again.[177]
+
+Falcon Heavy is a heavy-lift launch vehicle capable of delivering up to 63,800 kg (140,700 lb) to Low Earth orbit (LEO) or 26,700 kg (58,900 lb) to geosynchronous transfer orbit (GTO). It uses three slightly modified Falcon 9 first-stage cores with a total of 27 Merlin 1D engines.[178][179] The Falcon Heavy successfully flew its inaugural mission on February 6, 2018, launching Musk's personal Tesla Roadster into heliocentric orbit.[180]
+
+Both the Falcon 9 and Falcon Heavy are certified to conduct launches for the National Security Space Launch (NSSL).[181][182] As of October 2, 2026, the Falcon 9 and Falcon Heavy have been launched 706 times, resulting in 703 full mission successes, one partial success, and one in-flight failure. In addition, a Falcon 9 experienced a pre-flight failure before a static fire test in 2016.[183][184]
+
+SpaceX is developing a fully reusable super-heavy lift launch system known as Starship. It comprises a reusable first stage, called Super Heavy, and the reusable Starship second stage space vehicle. As of 2017, the system was intended to supersede the company's existing launch vehicle hardware by the early 2020s.[185][186]
+
+Rocket engines
+Main article: SpaceX rocket engines
+
+Merlin 1D engine undergoes a test at SpaceX's Rocket Development and Test Facility in McGregor, Texas
+Since the founding of SpaceX in 2002, the company has developed several rocket engines – Merlin, Kestrel, and Raptor – for use in launch vehicles,[187][188] Draco for the reaction control system of the Dragon series of spacecraft,[189] and SuperDraco for abort capability in Crew Dragon.[190]
+
+Merlin is a family of rocket engines that uses liquid oxygen (LOX) and RP-1 propellants. Merlin was first used to power the Falcon 1's first stage and is now used on both stages of the Falcon 9 and Falcon Heavy vehicles.[191] Kestrel uses the same propellants and was used as the Falcon 1 rocket's second-stage main engine.[188][192]
+
+Draco and SuperDraco are hypergolic liquid-propellant rocket engines. Draco engines are used on the reaction control system of the Dragon and Dragon 2 spacecraft.[189] The SuperDraco engine is more powerful, and eight SuperDraco engines provide launch escape capability for crewed Dragon 2 spacecraft during an abort scenario.[193]
+
+Raptor is a family of liquid oxygen and liquid methane-fueled full-flow staged combustion cycle engines to power the first and second stages of the in-development Starship launch system.[187] Development versions were test-fired in late 2016,[194] and the engine flew for the first time in 2019, powering the Starhopper vehicle to an altitude of 20 m (66 ft).[195]
+
+Dragon spacecraft
+Main articles: Dragon 1 and Dragon 2
+
+SpaceX Dragon 2 spacecraft, designed to deliver crew and cargo to and from the International Space Station (cargo version shown)
+SpaceX has developed the Dragon spacecraft to transport cargo and crew to the International Space Station (ISS).
+
+The first-generation Dragon 1 spacecraft was used only for cargo operations. It was developed with financial support from NASA under the Commercial Orbital Transportation Services (COTS) program. After a successful COTS demonstration flight in 2010, SpaceX was chosen to receive a Commercial Resupply Services (CRS) contract.[39]
+
+The currently operational second-generation Dragon 2 spacecraft conducted its first flight, without crew, to the ISS in early 2019, followed by a crewed flight of Dragon 2 in 2020.[85] It was developed with financial support from NASA under the Commercial Crew Program program. The cargo variant of Dragon 2 flew for the first time in December 2020, for a resupply to the ISS as part of the CRS contract with NASA.[196]
+
+In March 2020 SpaceX revealed the Dragon XL, designed as a resupply spacecraft for NASA's planned Lunar Gateway space station under a Gateway Logistics Services (GLS) contract.[197] Dragon XL is planned to launch on the Falcon Heavy, and is able to transport over 5,000 kg (11,000 lb) to the Gateway. Dragon XL will be docked at the Gateway for six to twelve months at a time.[198]
+
+SpaceX designed a spacesuit to be worn inside the Dragon spacecraft to protect from possible depressurization.[199] In May 2024, SpaceX unveiled a second spacesuit designed for extravehicular activity, planned to be used for a spacewalk during the Polaris Dawn mission.[200]
+
+Autonomous spaceport drone ships
+Main articles: SpaceX reusable launch system development program, Falcon 9 first-stage landing tests, and Autonomous spaceport drone ship
+
+Autonomous spaceport drone ship in position prior to CRS-6 mission
+SpaceX routinely returns the first stage of Falcon 9 and Falcon Heavy rockets after orbital launches. The rocket lands at a predetermined landing site using only its propulsion systems.[201] When propellant margins do not permit a return to a launch site (RTLS), rockets return to a floating landing platform in the ocean, called autonomous spaceport drone ships (ASDS).[202]
+
+SpaceX also had plans to introduce floating launch platforms, which would be modified oil rigs to provide a sea launch option for their Starship launch vehicle. As of February 2023, SpaceX had sold the oil rigs, but had not ruled out sea-based platforms for future use.[203]
+
+Starlink
+Main article: Starlink
+
+Sixty Starlink satellites stacked together before deployment
+Starlink is an internet satellite constellation under development by Starlink Services, LLC, a wholly owned subsidiary of SpaceX,[204][205] that consists of thousands of cross-linked communications satellites in ~550 km orbits. Its goal is to address the significant unmet demand worldwide for low-cost broadband capabilities.[206] Development began in 2015, and initial prototype test-flight satellites were launched on the SpaceX Paz satellite mission in 2017. In May 2019, SpaceX launched the first batch of 60 satellites aboard a Falcon 9.[207] Initial test operation of the constellation began in late 2020[208] and first orders were taken in early 2021.[209] Customers were told to expect internet service speeds of 50 Mbit/s to 150 Mbit/s and latency from 20 ms to 40 ms.[210] In December 2022, Starlink reached over 1 million subscribers worldwide.[211]
+
+The planned large number of Starlink satellites has been criticized by astronomers due to concerns over light pollution,[212][213][214] with the brightness of Starlink satellites in both optical and radio wavelengths interfering with scientific observations.[215] In response, SpaceX implemented several upgrades to Starlink satellites aimed at reducing their brightness.[216] The large number of satellites employed by Starlink also creates long-term dangers of satellite collisions with space debris.[217][218] However, the satellites are equipped with krypton-fueled Hall thrusters which allow them to de-orbit at the end of their life. They are also designed to autonomously avoid collisions based on uplinked tracking data.[219]
+
+In December 2022, SpaceX announced Starshield, a program to incorporate military or government entity payloads on board a Starlink-derived satellite bus. The Space Development Agency is a key customer procuring satellites for a space-based missile defense system.[220]
+
+In June 2024, SpaceX introduced a compact version of its Starlink antennas, the "Starlink Mini", designed for mobile satellite internet use. Offered for $599 in an early access release, it was more expensive than the base model. The Mini antenna, half the size and one-third the weight of the Standard version, featured a built-in WiFi router, lower power consumption, and over 100 Mbit/s download speeds.[221]
+
+Facilities
+SpaceX is headquartered at SpaceX Starbase near Brownsville, Texas, where it manufactures and launches its Starship launch vehicle. Much of the company's engineering, manufacturing, and mission operations remain based at its facility in Hawthorne, California, its headquarters until 2024, where it manufactures Falcon launch vehicles and Dragon spacecraft and operates mission control. The company also operates a rocket development and test facility in McGregor, Texas,[222] and an office in the Washington, D.C., area that supports government customers.[223] SpaceX operates launch facilities in California, Florida, and Texas.
+
+Hawthorne, California
+
+SpaceX office in Hawthorne, California, during a Falcon 9 launch from Vandenberg Space Force Base
+SpaceX operates a facility in Hawthorne, California. The three-story building, originally constructed by Northrop Corporation to manufacture Boeing 747 fuselage sections,[224] houses office space, mission control, and Falcon 9 manufacturing operations.[225]
+
+SpaceX manufactures its rocket engines, rocket stages, spacecraft, avionics, and flight software largely in-house.[20] Much of this work is performed at the Hawthorne facility, reflecting the company's emphasis on vertical integration.[20]
+
+The Hawthorne facility served as SpaceX's headquarters until August 2024, when the company relocated its headquarters to Starbase, Texas.[226]
+
+Starbase, Texas
+
+The Starship assembly building at SpaceX Starbase
+Main article: SpaceX Starbase
+SpaceX manufactures and launches Starship vehicles from SpaceX Starbase in Boca Chica, Texas, near Brownsville, Texas. The company announced plans for the site in 2014,[227][228] and began construction later that year.[229] The first suborbital test flights occurred in 2019,[225] followed by orbital launches beginning in 2023.
+
+SpaceX's operations at Starbase have been the subject of environmental reviews and regulatory actions. In August 2024, the Texas Commission on Environmental Quality cited the company for environmental violations related to discharges near the launch site.[230] The Environmental Protection Agency later fined the company approximately $150,000 for alleged violations of the Clean Water Act.[231]
+
+McGregor, Texas
+
+Aerial view of the SpaceX rocket test facility in McGregor, Texas
+Main article: SpaceX Rocket Development and Test Facility
+The SpaceX Rocket Development and Test Facility in McGregor, Texas, is used for rocket engine development and testing. Every SpaceX rocket engine and thruster undergoes acceptance testing at the facility before flight.[232][233] The site is also used for research, development, and qualification testing of engines and other propulsion components.[234]
+
+Following splashdown and recovery, Dragon spacecraft are transported to McGregor for removal of residual hypergolic propellants before refurbishment elsewhere.[232]
+
+According to SpaceX, more than 7,000 tests had been conducted at the facility by 2024 across more than a dozen test stands.[235] Company president and chief operating officer Gwynne Shotwell maintains an office at the site.[236]
+
+The property was originally part of the Bluebonnet Ordnance Plant during World War II.[234] It was later used by Beal Aerospace before being leased by SpaceX in 2003.[237] SpaceX expanded the facility from approximately 256 acres (104 ha) in 2003 to 4,000 acres (1,600 ha) by 2015.[234][235]
+
+In 2021, SpaceX announced plans to construct an additional Raptor engine production facility at McGregor to increase manufacturing capacity.[238][239]
+
+Launch facilities
+Main article: SpaceX launch facilities
+
+Falcon Heavy Side Boosters landing on LZ1 and LZ2 at Cape Canaveral
+SpaceX operates four orbital launch sites, at Cape Canaveral Space Force Station and Kennedy Space Center in Florida and Vandenberg Space Force Base in California for Falcon rockets, and Starbase near Brownsville, Texas for Starship. SpaceX has indicated that they see a niche for each of the four orbital facilities and that they have sufficient launch business to fill each pad.[240] The Vandenberg launch site enables highly inclined orbits (66–145°), while Cape Canaveral and Kennedy enable orbits of medium inclination (28.5–55°).[241] Larger inclinations, including SSO, are possible from Florida by overflying Cuba.[242]
+
+Before it was retired, all Falcon 1 launches took place at the Ronald Reagan Ballistic Missile Defense Test Site on Omelek Island of the Marshall Islands.[243]
+
+In April 2007, the Pentagon approved the use of Cape Canaveral Space Launch Complex 40 (SLC-40) by SpaceX.[244] The site has been used since 2010 for Falcon 9 launches, mainly to low Earth and geostationary orbits.
+
+The former Launch Complex 13 at Cape Canaveral, renamed Landing Zones 1 and 2, was used from 2015 until its retirement in 2026 for Falcon 9 first-stage booster landings.[245] The landing zones were retired in 2026 after the Space Force leased Launch Complex 13 to a new customer. SpaceX has constructed new return-to-launch-site landing facilities at Launch Complex 39A and Space Launch Complex 40.[246][247][248]
+
+SpaceX west coast launch facility at Vandenberg Space Force Base, during the launch of CASSIOPE
+Vandenberg Space Launch Complex 4 (SLC-4E) was leased from the military in 2011 and is used for payloads to polar orbits. The Vandenberg site can launch both Falcon 9 and Falcon Heavy vehicles,[249] but cannot launch to low inclination orbits. The neighboring SLC-4W was converted to Landing Zone 4 in 2015 for booster landings.[250]
+
+On April 14, 2014, SpaceX signed a 20-year lease for Kennedy Space Center Launch Complex 39A.[251] The pad was subsequently modified to support Falcon 9 and Falcon Heavy launches. As of 2024 it is the only pad that supports Falcon Heavy launches. SpaceX launched its first crewed mission to the ISS from Launch Pad 39A on May 30, 2020.[252] Pad 39A has been prepared since 2019 to eventually accommodate Starship launches. With delays in launch FAA permits for Boca Chica, Texas, the 39A Starship preparation was accelerated in 2022.[253]
+
+In August 2026, The New York Times reported that SpaceX planned a second private spaceport in Louisiana, described as a multi-pad Starship complex after Starbase in Texas.[254][255]
+
+On August 30, 2026, a Falcon Heavy launched NASA's Nancy Grace Roman Space Telescope from Kennedy Space Center Launch Complex 39A.[256]
+
+Contracts
+Further information on SpaceX launches: Falcon 1 § Launches, List of Falcon 9 and Falcon Heavy launches, and List of Starship launches
+SpaceX won demonstration and actual supply contracts from NASA for the International Space Station (ISS) with technology the company developed. SpaceX is also certified for U.S. military launches of Evolved Expendable Launch Vehicle-class (EELV) payloads.
+
+Cargo to International Space Station (ISS)
+Main articles: Commercial Orbital Transportation Services, Commercial Resupply Services, and Gateway Logistics Services
+
+The COTS 2 Dragon is berthed to the International Space Station (ISS) by Canadarm2
+In 2006, SpaceX won a NASA Commercial Orbital Transportation Services (COTS) Phase 1 contract to demonstrate cargo delivery to the ISS, with a possible contract option for crew transport.[257] Through this contract, designed by NASA to provide "seed money" through Space Act Agreements for developing new capabilities, NASA paid SpaceX $396 million to develop the cargo configuration of the Dragon spacecraft, while SpaceX developed the Falcon 9 launch vehicle with their resources.[258] These Space Act Agreements have been shown to have saved NASA millions of dollars in development costs, making rocket development 4–10 times less expensive than if produced by NASA alone.[259]
+
+In December 2010, with the launch of the SpaceX COTS Demo Flight 1 mission, SpaceX became the first private company to successfully launch, orbit, and recover a spacecraft.[260] Dragon successfully berthed with the ISS during SpaceX COTS Demo Flight 2 in May 2012, a first for a private spacecraft.[261]
+
+Commercial Resupply Services (CRS) is a series of contracts awarded by NASA from 2008 to 2016 for the delivery of cargo and supplies to the ISS on commercially operated spacecraft. The first CRS contracts were signed in 2008 and awarded $1.6 billion to SpaceX for 12 cargo transport missions, covering deliveries to 2016.[262] SpaceX CRS-1, the first of the 12 planned resupply missions, launched in October 2012, achieved orbit, berthed, and remained on station for 20 days, before re-entering the atmosphere and splashing down in the Pacific Ocean.[263]
+
+CRS missions have flown approximately twice a year to the ISS since then. In 2015, NASA extended the Phase 1 contracts by ordering an additional three resupply flights from SpaceX, and then extended the contract further for a total of twenty cargo missions to the ISS.[264][262][265] The final Dragon 1 mission, SpaceX CRS-20, departed the ISS in April 2020, and Dragon was subsequently retired from service. A second phase of contracts was awarded in January 2016 with SpaceX as one of the awardees. SpaceX will fly up to nine additional CRS flights with the upgraded Dragon 2 spacecraft.[266][267] In March 2020, NASA contracted SpaceX to develop the Dragon XL spacecraft to send supplies to the Lunar Gateway space station. Dragon XL will be launched on a Falcon Heavy.[268]
+
+Crewing
+See also: Commercial Crew Program
+
+NASA astronauts inside the Dragon spacecraft during the Crew-1 mission rendezvous with the International Space Station
+SpaceX is responsible for the transportation of NASA astronauts to and from the ISS. The NASA contracts started as part of the Commercial Crew Development (CCDev) program, aimed at developing commercially operated spacecraft capable of delivering astronauts to the ISS. The first contract was awarded to SpaceX in 2011,[269][270] followed by another in 2012 to continue development and testing of its Dragon 2 spacecraft.[271]
+
+In September 2014, NASA chose SpaceX and Boeing as the two companies that would be funded to develop systems to transport U.S. crews to and from the ISS.[272] SpaceX won $2.6 billion to complete and certify Dragon 2 by 2017. The contracts called for at least one crewed flight test with at least one NASA astronaut aboard. Once Crew Dragon received NASA human-spaceflight certification, the contract required SpaceX to conduct at least two, and as many as six, crewed missions to the space station.[272]
+
+SpaceX completed the first key flight test of its Crew Dragon spacecraft, a Pad Abort Test, in May 2015,[273] and successfully conducted a full uncrewed test flight in March 2019. The capsule docked to the ISS and then splashed down in the Atlantic Ocean.[274] In January 2020, SpaceX conducted an in-flight abort test, the last test flight before flying crew, in which the Dragon spacecraft fired its launch escape engines in a simulated abort scenario.[275]
+
+On May 30, 2020, the Crew Dragon Demo-2 mission was launched to the International Space Station with NASA astronauts Bob Behnken and Doug Hurley, the first time a crewed vehicle had launched from the U.S. since 2011, and the first SpaceX commercial crewed launch to the ISS.[276] The Crew-1 mission was successfully launched to the International Space Station on November 16, 2020, with NASA astronauts Michael S. Hopkins, Victor Glover and Shannon Walker along with JAXA astronaut Soichi Noguchi,[277] all members of the Expedition 64 crew.[278] On April 23, 2021, Crew-2 was launched to the International Space Station with NASA astronauts Shane Kimbrough and K. Megan McArthur, JAXA astronaut Akihiko Hoshide, and ESA astronaut Thomas Pesquet.[279] The Crew-2 mission successfully docked on April 24, 2021.[280]
+
+Resilience after splashdown
+SpaceX also offers paid crewed spaceflights for private individuals. The first of these missions, Inspiration4, launched in 2021 on behalf of Shift4 Payments CEO Jared Isaacman. The mission launched the Crew Dragon Resilience from the Florida Kennedy Space Center's Launch Complex 39A atop a Falcon 9 launch vehicle, placed the Dragon capsule into low Earth orbit, and ended successfully about three days later when the Resilience splashed down in the Atlantic Ocean. All four crew members received commercial astronaut training from SpaceX. The training included lessons in orbital mechanics, operating in a microgravity environment, stress testing, emergency-preparedness training, and mission simulations.[281]
+
+National defense
+
+Launch of the STP-2 mission on a Falcon Heavy in June 2019
+In 2005, SpaceX announced that it had been awarded an Indefinite Delivery/Indefinite Quantity (IDIQ) contract, allowing the United States Air Force to purchase up to $100 million worth of launches from the company.[282] Three years later, NASA announced that it had awarded an IDIQ Launch Services contract to SpaceX for up to $1 billion, depending on the number of missions awarded.[283] In December 2012, SpaceX announced its first two launch contracts with the United States Department of Defense (DoD). The United States Air Force Space and Missile Systems Center awarded SpaceX two EELV-class missions: Deep Space Climate Observatory (DSCOVR) and Space Test Program 2 (STP-2). DSCOVR was launched on a Falcon 9 launch vehicle in 2015, while STP-2 was launched on a Falcon Heavy on June 25, 2019.[284]
+
+The Falcon 9 v1.1 was certified for National Security Space Launch (NSSL) in 2015, allowing SpaceX to contract launch services to the Air Force for any payloads classified under national security.[181] This broke the monopoly held since 2006 by United Launch Alliance (ULA) over U.S. Air Force launches of classified payloads.[285] In April 2016, the U.S. Air Force awarded the first such national security launch to SpaceX to launch the second GPS III satellite for $82.7 million.[286] This was approximately 40% less than the estimated cost for similar previous missions.[287] SpaceX also launched the third GPS III launch on June 20, 2020.[288] In March 2018, SpaceX secured an additional $290 million contract from the U.S. Air Force to launch another three GPS III satellites.[289]
+
+The U.S. National Reconnaissance Office (NRO) also purchased launches from SpaceX, with the first taking place on May 1, 2017.[290] In February 2019, SpaceX secured a $297 million contract from the U.S. Air Force to launch another three national security missions, all slated to launch no earlier than FY 2021.[291] In August 2020, the U.S. Space Force awarded its National Security Space Launch (NSSL) contracts for the following 5–7 years. SpaceX won a contract for $316 million for one launch. In addition, SpaceX will handle 40% of the U.S. military's satellite launch requirements over the period.[292]
+
+SpaceX also designs and launches custom military satellites for the Space Development Agency as part of a new missile defense system in low Earth orbit.[293] The constellation would give the United States capabilities to sense, target and potentially intercept nuclear missiles and hypersonic weapons launched from anywhere on Earth.[294] Both China and Russia brought concerns to the United Nations about the program,[295] and various organizations warn it could be destabilizing and trigger an arms race in space.[296][297]
+
+In March 2024, Reuters reported that, as part of a $1.8 billion contract signed with the National Reconnaissance Office in 2021, SpaceX is building a network of hundreds of spy satellites. This new network, Reuters reported, would be able to operate as a swarm in low orbits.[298]
+
+In December 2024, The Wall Street Journal reported that Musk did not have access to government secrets.[299]
+
+Launch market competition and pricing pressure
+Main article: Space launch market competition
+SpaceX's low launch prices, especially for communications satellites flying to geostationary transfer orbit (GTO), have resulted in market pressure on its competitors to lower their own prices.[20] Prior to 2013, the openly competed comsat launch market had been dominated by Arianespace (flying the Ariane 5) and International Launch Services (flying the Proton).[300] With a published price of $56.5 million per launch to low Earth orbit, Falcon 9 rockets were the least expensive in the industry.[301] European satellite operators are pushing the ESA to reduce launch prices of the Ariane 5 and Ariane 6 rockets as a result of competition from SpaceX.[302]
+
+SpaceX ended the United Launch Alliance (ULA) monopoly of U.S. military payloads when it began to compete for national security launches. In 2015, anticipating a slump in domestic, military, and spy launches, ULA stated that it would go out of business unless it won commercial satellite launch orders.[303] To that end, ULA announced a major restructuring of processes and workforce to decrease launch costs by half.[304][305]
+
+Congressional testimony by SpaceX in 2017 suggested that the NASA Space Act Agreement process of "setting only a high-level requirement for cargo transport to the space station [while] leaving the details to industry" had allowed SpaceX to design and develop the Falcon 9 rocket on its own at a substantially lower cost. According to NASA's own independently verified numbers, SpaceX's total development cost for the Falcon 9 rocket, including the Falcon 1 rocket, was estimated at $390 million. In 2011, NASA estimated that it would have cost the agency about $4 billion to develop a rocket like the Falcon 9 booster based upon NASA's traditional contracting processes, about ten times more.[259] In May 2020, NASA administrator Jim Bridenstine remarked that thanks to NASA's investments into SpaceX, the United States has 70% of the commercial launch market, a major improvement since 2012 when there were no commercial launches from the country.[306]
+
+As of 2024, SpaceX operates a Rideshare and Bandwagon (mid inclination) programs. This provides additional competition for small satellite launchers.[307]
+
+Corporate affairs
+Business trends
+Year Revenue
+(billion USD) Valuation
+(billion USD) Number of employees
+2002 c. 30[308]
+2003
+2004
+2005 c. 90 (Feb.)[309]
+c. 160 (Nov.)[310]
+2006
+2007 c. 350 (Aug.)[311]
+2008 c. 600 (Dec.)[312]
+2009 > 800 (Dec.)[313]
+2010 > 1,000 (Jun.)[314]
+2011 c. 1,300 (Jan.)[315]
+2012 2.4 (Jun.)[316] c. 1,800 (May)[317]
+2013 c. 3,800 (Oct.)[318]
+2014 10 (Aug.)[319]
+2015 12 (Jan.)[320]
+2016 15 (Nov.)[321] c. 5,000 (Nov.)[322]
+2017 21 (Nov.)[323] c. 7,000 (Nov.)[324]
+2018 27 (Apr.)[325]
+2019 33 (May)[79] > 6,000 (Jul.)
+2020 $1.8[326] 46 (Aug.)[327]
+2021 $2.3[326] 74 (Feb.)[327]
+100 (Oct.)[327] > 9,500 (Mar.)[328]
+2022 $4.6[329] 127 (Aug.)[91] c. 12,000 (Apr.)[330]
+2023 $9[331] 137 (Jan.)[332]
+180 (Dec.)[333] > 13,000 (Sep.)[334]
+2024 $13.1[335] 350 (Dec.)[327]
+2025 $15.5[336] 400 (Jul.)[337]
+800 (Dec.)[338]
+2026 1000 (Jan.)[155]
+1250 (Feb.)[155]
+2000 (Jun.)[339] 22,000 (Mar.)[2]
+Board of directors
+SpaceX board of directors as of May 2026[2]
+Joined board Name Titles Independent
+2002[2] Elon Musk Founder, chairman, CEO and CTO of SpaceX; CEO, Product Architect, and former chairman of Tesla; former chairman of SolarCity[2] N/A
+2009[2] Gwynne Shotwell President and COO of SpaceX[2] N/A
+Luke Nosek Co-founder, PayPal[2] and Founders Fund Yes[2][340][341]
+Steve Jurvetson Co-founder, Future Ventures fund;[2] former board member of Tesla[2] Yes[341]
+2010[2] Antonio Gracias CEO and Chairman of the Investment Committee at Valor Equity Partners; board member of Neuralink Corp; board member of The Boring Company; former board member of Tesla and SolarCity[2] No[340][341]
+2015[2] Donald Harrison President of global partnerships and corporate development, Google[2] Yes[341]
+2026 Ira Ehrenpreis Founder and managing member of DBL Partners, an impact investing venture; board member of Tesla[2] Yes[341]
+2026 Randy Glein Co-founder and managing partner of DFJ Growth (Draper Fisher Jurvetson), a venture capital firm Yes[341]
+2026[342] Roelof Botha Managing partner, Sequoia Capital; former chief financial officer, PayPal Yes[341]
+Leadership changes
+In November 2022, to focus on Starship, the company announced COO Gwynne Shotwell and vice president Mark Juncosa would oversee Starbase, its Texas launch facility, along with Omead Afshar, who at the time oversaw operations for Tesla in Texas. Shyamal Patel, who was senior director of operations at the site, would shift to its Cape Canaveral site.[343][344][345]
+
+Net operating loss carryforwards
+As of 2024, SpaceX has likely paid little to no federal income taxes since it was founded; it had a carryforward of $5 billion in net operating losses that can be used to offset taxes due on its next $5 billion of income.[346]
+
+Workplace culture
+According to former NASA deputy administrator Lori Garver in 2022, the company overall has a male-dominated "bro culture", similar to that of the spaceflight industry in general.[347] In December 2021, claims of workplace sexual harassment from five former SpaceX employees, ranging from interns to full engineers, were published.[348] The former employees claimed to have experienced unwanted advances and uncomfortable interactions.[349] Additionally, the accounts included claims of a culture of sexual harassment existing at the company and one where complaints made to executives, managers, and human resources officers went largely unaddressed.[348]
+
+In May 2022, an anonymous friend of a SpaceX flight attendant alleged that Musk engaged in sexual misconduct with such SpaceX flight attendant in a private jet in 2016 and that the company paid her $250,000 for her silence.[350] In response, some employees collaborated on an open letter condemning "Elon's harmful Twitter behavior".[351] It also asks the company to clearly define SpaceX's "no-asshole" and "zero tolerance" policies, which it says is unequally enforced from one employee to the next. The next day, Gwynne Shotwell announced that those employees who were involved with the letter had been terminated and claimed that unsponsored, unsolicited surveys were sent to employees during the work day and that some felt pressured to sign the letter.[352]
+
+The company has also been described as having a work culture that pushes employees to work excessively and is described as fostering a burnout culture.[353] According to a memo by Blue Origin, a rival aerospace company with a history of lawsuits and anti-SpaceX political lobbying,[354][355][356] SpaceX expected very long work hours, work on weekends, and limited use of holidays.[353]
+
+In 2023, SpaceX employees alleged that the company's rush to colonize space has resulted in injuries. An examination of OSHA's records revealed injury rates higher than the industry's averages. In addition, in 2023, Reuters documented at least 600 previously unreported workplace injuries at SpaceX since 2014, including "crushed limbs, amputations, electrocutions, head and eye wounds and one death", Lonnie LeBlanc, a former United States Marine who was blown off a trailer by the wind while attempting to hold its cargo load down.[357][358]
+
+In June 2024, eight ex-employees, the same who had previously been fired for penning the open letter against Elon Musk, filed a lawsuit against Musk and SpaceX alleging sexual harassment and discrimination.[359][360][361] The lawsuit has since stalled on questions of which court has jurisdiction over SpaceX's headquarters.[362][363]
+
+References
+"Delaware Business Search (File # 3500808 – Space Exploration Technologies Corp)". Delaware Department of State: Division of Corporations. Archived from the original on September 20, 2016. Retrieved February 1, 2022.
+"FORM S-1: Space Exploration Technologies Corp". United States Securities and Exchange Commission. May 20, 2026.
+"Gwynne Shotwell: Executive Profile & Biography". Bloomberg L.P. Archived from the original on July 16, 2019. Retrieved March 1, 2017.
+"Schedule 13G – Space Exploration Technologies Corp". U.S. Securities and Exchange Commission. August 13, 2026. Retrieved August 13, 2026 – via Fast EDGAR.
+"Schedule 13F – Alphabet". U.S. Securities and Exchange Commission. August 7, 2026. Retrieved August 14, 2026 – via Fast EDGAR.
+"Space Exploration Technologies Corp. — EU Prospectus" (PDF). SpaceX. June 5, 2026. Retrieved September 13, 2026.
+Yañez, Alejandra (May 20, 2025). "Cameron County Commissioners Court approves Starbase as new city". Retrieved May 20, 2025.
+"SpaceX". Britannica Money. Retrieved August 14, 2026.
+Clark, Stephen (June 28, 2024). "Rocket Report: China flies reusable rocket hopper; Falcon Heavy dazzles". Ars Technica. Retrieved October 28, 2024.
+"SpaceX launched 165 Falcon 9 rockets into orbit in 2025". SpaceDaily. 2026. Retrieved August 14, 2026.
+"Musk confirms fourth SpaceXAI data center in Memphis". Data Center Dynamics. July 31, 2026. Retrieved August 14, 2026.
+Foust, Jeff (April 16, 2021). "NASA selects SpaceX to develop crewed lunar lander". SpaceNews. Archived from the original on May 23, 2021. Retrieved April 18, 2021.
+"SpaceX IPO raised $10bn more than thought". BBC. June 15, 2026. Retrieved June 16, 2026.
+Durot, Matt (June 12, 2026). "SpaceX's IPO Just Made Elon Musk The World's First Trillionaire". Forbes. Archived from the original on June 12, 2026.
+Siddiqui, Faiz; Ovide, Shira (June 12, 2026). "Elon Musk becomes the first trillionaire after SpaceX surges out of the gate". The Washington Post. ISSN 0190-8286. Archived from the original on June 12, 2026.
+Zubrin, Robert (May 14, 2019). The Case for Space: How the Revolution in Spaceflight Opens Up a Future of Limitless Possibility. Amherst, New York: Prometheus Books. ISBN 978-1-63388-534-9. OCLC 1053572666.
+"The Mars Society Inc. Fourth International Convention" (PDF). Mars Society. August 23, 2001. Archived (PDF) from the original on March 30, 2023. Retrieved August 23, 2021.
+Musk, Elon (May 30, 2009). "Risky Business". IEEE Spectrum. Archived from the original on February 23, 2017. Retrieved March 1, 2017.
+Quiroz-Gutierrez, Marco (June 14, 2026). "SpaceX went from three consecutive rocket explosions and near-bankruptcy in 2008 to the biggest IPO in history". Fortune.
+Chaikin, Andrew (January 2012). "Is SpaceX Changing the Rocket Equation?". Smithsonian Magazine.
+Vance, Ashlee (May 14, 2015). "Elon Musk's space dream almost killed Tesla". Bloomberg L. P. Archived from the original on February 11, 2018. Retrieved March 1, 2017.
+Berger, Eric (2021). Liftoff. William Morrow and Company. ISBN 978-0-06-297997-1.
+Belfiore, Michael (September 1, 2009). "Behind the Scenes With the World's Most Ambitious Rocket Makers". Popular Mechanics. Archived from the original on December 13, 2016.
+Maney, Kevin (June 17, 2005). "Private sector enticing public into final frontier". USA Today. Archived from the original on May 19, 2012. Retrieved March 14, 2021.
+Hoffman, Carl (May 22, 2007). "Elon Musk Is Betting His Fortune on a Mission Beyond Earth's Orbit". Wired. Archived from the original on November 14, 2012.
+"Commercial Market Assessment for Crew and Cargo Systems" (PDF). NASA. April 27, 2011. p. 40. Archived from the original (PDF) on December 7, 2014. Retrieved February 24, 2026. SpaceX has publicly indicated that the development cost for Falcon 9 launch vehicle was approximately $300 million. Additionally, approximately $90 million was spent developing the Falcon 1 launch vehicle which did contribute to some extent to the Falcon 9, for a total of $390 million. NASA has verified these costs.
+Berger, Brian (October 3, 2005). "Kistler Teeters on the Brink After Main Investor Withdraws Support". SpaceNews. Archived from the original on April 3, 2024. Retrieved October 7, 2023.
+Belfiore, Michael (January 18, 2005). "Race for Next Space Prize Ignites". Wired. Archived from the original on October 12, 2008. Retrieved March 1, 2017.
+David, Leonard (September 8, 2005). "SpaceX to Tackle Fully Reusable Heavy Lift Launch Vehicle". Space.com.
+Berger, Eric (August 11, 2021). "This is probably why Blue Origin keeps protesting NASA's lunar lander award". Ars Technica. Archived from the original on December 30, 2021. Retrieved December 30, 2021.
+Public Domain This article incorporates text from this source, which is in the public domain: Frankel, David J. (April 26, 2010). "Minutes of the NAC Commercial Space Committee" (PDF). NASA. Archived (PDF) from the original on March 13, 2017. Retrieved June 24, 2017.
+"Falcon 1 Reaches Space But Loses Control and is Destroyed on Re-Entry". Satnews.com. March 21, 2007. Archived from the original on September 28, 2007.
+Graham Warwick and Guy Norris, "Blue Sky Thinking: DARPA at 50," Aviation Week & Space Technology, August 18–25, 2008, p. 18.
+Levin, Steve (January 12, 2022). "Elon Musk, man behind Tesla, Paypal, speaks to packed crowd at CSUB". The Bakersfield Californian. Archived from the original on January 12, 2022. Retrieved January 12, 2022.
+Alaieva, Liliia (February 22, 2026). "The "Musk time" effect. Why is SpaceX late, but still winning?". Universe Space Tech. Retrieved April 26, 2026.
+McFall-Johnsen, Morgan; Kay, Grace. "14 big moments in the history of Elon Musk's SpaceX — from nearly going bankrupt in 2008 to the fiery Starship explosion". Business Insider. Retrieved April 26, 2026.
+Graham, William (December 20, 2017). "SpaceX at 50 – From taming Falcon 1 to achieving cadence in Falcon 9". NASASpaceflight. Archived from the original on December 31, 2020. Retrieved March 16, 2021.
+Bergin, Chris (January 15, 2009). "Planetspace officially protest NASA's CRS selection". NASASpaceflight. Retrieved August 22, 2023.
+"Private space capsule's maiden voyage ends with a splash". BBC News. December 8, 2010. Archived from the original on November 15, 2016. Retrieved March 1, 2017.
+Chow, Denise (December 8, 2010). "Q & A with SpaceX CEO Elon Musk: Master of Private Space Dragons". Space.com. Archived from the original on August 18, 2017. Retrieved June 24, 2017.
+Chow, Denise (April 18, 2011). "Private Spaceship Builders Split Nearly $270 Million in NASA Funds". Space.com. Archived from the original on December 31, 2011. Retrieved March 1, 2017.
+Koenigsmann, Hans (January 17, 2018). "Statement of Dr. Hans Koeningsmann Vice President, Build and Flight Reliability Space Exploration Technologies Corp. (SpaceX)" (PDF). Archived from the original (PDF) on September 23, 2018.
+Melby, Caleb (March 12, 2012). "How Elon Musk Became A Billionaire Twice Over". Forbes. Archived from the original on March 6, 2017. Retrieved March 1, 2017.
+"Elon Musk Anticipates Third IPO in Three Years With SpaceX". Bloomberg L. P. February 11, 2012. Archived from the original on July 21, 2016. Retrieved March 1, 2017.
+Watts, Jane (April 27, 2012). "Elon Musk on Why SpaceX Has the Right Stuff to Win the Space Race". CNBC. Archived from the original on December 16, 2016. Retrieved March 1, 2017.
+"Private SpaceX rocket blasts off for space station Cargo ship reaches orbit 9 minutes after launch". CBC News. The Canadian Press. May 22, 2012. Archived from the original on March 13, 2017. Retrieved March 1, 2017.
+"Privately-held SpaceX Worth Nearly $2.4 Billion or $20/Share, Double Its Pre-Mission Secondary Market Value Following Historic Success at the International Space Station". privco.com. June 7, 2012. Archived from the original on August 6, 2017. Retrieved March 1, 2017.
+Bilton, Ricardo (June 10, 2012). "SpaceX's worth skyrockets to $4.8 billion after successful mission". VentureBeat. Archived from the original on March 6, 2016. Retrieved March 1, 2017.
+"SpaceX overview on second market". SecondMarket.
+Fernholz, Tim. "The complete visual history of SpaceX's single-minded pursuit of rocket reusability". Quartz. Archived from the original on March 12, 2021. Retrieved March 16, 2021.
+de Selding, Peter B. (January 12, 2015). "Arianespace, SpaceX Battled to a Draw for 2014 Launch Contracts". SpaceNews.
+Svitak, Amy (February 11, 2014). "Arianespace To ESA: We Need Help". Aviation Week. Archived from the original on March 5, 2017. Retrieved March 1, 2017.
+de Selding, Peter B. (April 14, 2014). "Satellite Operators Press ESA for Reduction in Ariane Launch Costs". SpaceNews. Archived from the original on August 2, 2023. Retrieved November 24, 2022.
+Petersen, Melody (November 25, 2014). "SpaceX may upset firm's monopoly in launching Air Force satellites". Los Angeles Times. Archived from the original on April 21, 2017. Retrieved March 1, 2017.
+"Air Force budget reveals how much SpaceX undercuts launch prices". Ars Technica. Archived from the original on January 17, 2018. Retrieved March 29, 2018.
+Hardy, Quentin; Dougherty, Conor (January 20, 2015). "Google and Fidelity Put $1 Billion into SpaceX". The New York Times. ISSN 0362-4331. Archived from the original on November 12, 2020. Retrieved December 31, 2020.
+Berger, Brian (January 20, 2015). "SpaceX Confirms Google Investment". SpaceNews. Archived from the original on February 20, 2023. Retrieved March 1, 2017.
+Kang, Cecilia; Davenport, Christian (June 9, 2015). "SpaceX founder files with government to provide Internet service from space". The Washington Post. Archived from the original on February 23, 2017. Retrieved March 1, 2017.
+Masunaga, Samantha; Petersen, Melody (September 2, 2016). "SpaceX rocket exploded in an instant. Figuring out why involves a mountain of data". Los Angeles Times. Archived from the original on February 19, 2017. Retrieved March 1, 2017.
+Musk, Elon (December 21, 2015). "Background on tonight's launch". SpaceX. Archived from the original on March 8, 2017. Retrieved March 1, 2017.
+Wright, Robert (April 9, 2016). "SpaceX rocket lands on drone ship". CNBC. Archived from the original on September 21, 2019. Retrieved March 16, 2021.
+de Selding, Peter B. (October 5, 2016). "SpaceX's Shotwell on Falcon 9 inquiry, discounts for reused rockets and Silicon Valley's test-and-fail ethos". SpaceNews.
+Santana, Marco (September 6, 2016). "SpaceX customer vows to rebuild satellite in explosion aftermath". Orlando Sentinel. Archived from the original on February 16, 2017. Retrieved March 1, 2017.
+Grush, Loren (November 5, 2016). "Elon Musk says SpaceX finally knows what caused the latest rocket failure". The Verge. Archived from the original on February 19, 2017. Retrieved March 1, 2017.
+"Anomaly Updates". SpaceX. September 1, 2016. Archived from the original on February 16, 2017. Retrieved March 1, 2017.
+Davenport, Christian (March 30, 2017). "Elon Musk's SpaceX makes history by launching a 'flight-proven' rocket". The Washington Post. Archived from the original on March 31, 2017. Retrieved March 31, 2017.
+"SpaceX successfully launches, lands a recycled rocket". NBC News. Archived from the original on March 31, 2017. Retrieved March 31, 2017.
+Nelson, Laura J. (November 21, 2017). "Elon Musk's tunneling company wants to dig through L.A." Los Angeles Times. Archived from the original on March 27, 2018. Retrieved September 13, 2018.
+"Nothing "Boring" About Elon Musk's Newly Revealed Underground Tunnel". CBS News. May 11, 2018. Archived from the original on December 3, 2018. Retrieved February 2, 2019.
+Copeland, Rob (December 17, 2018). "Elon Musk's New Boring Co. Faced Questions Over SpaceX Financial Ties". The Wall Street Journal. Archived from the original on December 18, 2018. Retrieved December 18, 2018. When the Boring Co. was earlier this year spun into its own firm, more than 90% of the equity went to Mr. Musk and the rest to early employees... The Boring Co. has since given some equity to SpaceX as compensation for the help... about 6% of Boring stock, "based on the value of land, time and other resources contributed since the creation of the company".
+"SpaceX Is Now One of the World's Most Valuable Privately Held Companies". The New York Times. July 27, 2017. Archived from the original on November 29, 2017. Retrieved November 16, 2017.
+"As the SpaceX steamroller surges, European rocket industry vows to resist". July 20, 2018. Archived from the original on July 20, 2018. Retrieved July 21, 2018.
+Hughes, Tim (July 13, 2017). "Statement of Tim Hughes Senior Vice President for Global Business and Government Affairs Space Exploration Technologies Corp. (SpaceX)" (PDF). Archived (PDF) from the original on October 23, 2017.
+Wattles, Jackie (January 11, 2019). "SpaceX to lay off 10% of its workers". CNN. Archived from the original on July 16, 2019.
+Steve, Ganyard; Kekatos, Steve (April 20, 2023). "Why SpaceX's Starship rocket matters even after self-destruction". ABC News. Archived from the original on January 28, 2024. Retrieved January 27, 2024.
+Wall, Mike (March 7, 2024). "SpaceX to push the envelope on 3rd Starship test flight". Space.com. Retrieved July 12, 2026.
+Starship Service to Earth Orbit, Moon, Mars, and Beyond Archived May 22, 2020, at the Wayback Machine Spacex.com. 2024. Retrieved March 7, 2024.
+Sheetz, Michael (February 21, 2020). "SpaceX is looking to raise about $250 million, valuing Elon Musk's space company at $36 billion". CNBC. Archived from the original on May 29, 2020. Retrieved May 15, 2020.
+"SpaceX valuation rises to $33.3 billion as investors look to satellite opportunity". CNBC. May 31, 2019. Archived from the original on June 11, 2019. Retrieved June 17, 2019.
+Cao, Sissi (March 10, 2020). "As SpaceX Reaches $36 Billion Valuation, Elon Musk Clarifies Starlink IPO Rumors". Observer.com. Archived from the original on June 17, 2020. Retrieved May 29, 2020.
+Patel, Neel. "SpaceX now operates the world's biggest commercial satellite network". MIT Technology Review. Archived from the original on October 6, 2023. Retrieved May 19, 2024.
+"Elon Musk's SpaceX raises $1.9 billion in funding". Reuters. August 19, 2020. Archived from the original on August 20, 2020. Retrieved August 20, 2020.
+Wattles, Jackie. "SpaceX is now a $46 billion 'unicorn'". CNN Business. Archived from the original on August 20, 2020. Retrieved August 20, 2020.
+Sheetz, Michael (February 16, 2021). "Elon Musk's SpaceX raised $850 million, jumping valuation to about $74 billion". CNBC. Archived from the original on February 17, 2021. Retrieved February 17, 2021.
+Chang, Kenneth (May 30, 2020). "SpaceX Lifts NASA Astronauts to Orbit, Launching New Era of Spaceflight – The trip to the space station was the first from American soil since 2011 when the space shuttles were retired". The New York Times. Archived from the original on August 10, 2020. Retrieved May 31, 2020.
+Wattles, Jackie (May 30, 2020). "SpaceX Falcon 9 launches two NASA astronauts into the space CNN". CNN. Archived from the original on May 31, 2020. Retrieved May 31, 2020.
+"SpaceX-NASA Dragon Demo-2 launch: All your questions answered". The Indian Express. June 2, 2020. Archived from the original on June 3, 2020. Retrieved June 2, 2020.
+Foust, Jeff (April 15, 2021). "SpaceX adds to latest funding round". SpaceNews.
+Sheetz, Michael (October 8, 2021). "Elon Musk's SpaceX hits $100 billion valuation after secondary share sale". CNBC. Archived from the original on October 29, 2021. Retrieved October 30, 2021.
+Novet, Jordan (May 13, 2021). "Google wins cloud deal from Elon Musk's SpaceX for Starlink internet connectivity". CNBC.
+"SpaceX raises another $250 million in equity, lifts total to $2 billion in 2022". CNBC. August 5, 2022. Archived from the original on August 9, 2022. Retrieved August 9, 2022.
+Howell, Elizabeth (July 12, 2021). "Elon Musk unveils SpaceX's newest drone ship for rocket landings at sea". Space.com. Archived from the original on August 27, 2021. Retrieved February 7, 2022.
+Whittington, Mark R. (January 9, 2022). "SpaceX's Elon Musk is going into the carbon capture business". The Hill. Archived from the original on July 7, 2022. Retrieved July 7, 2022.
+Chiland, Elijah (January 24, 2022). "SpaceX Has Big Projects in the Works for 2022". Los Angeles Business Journal. Archived from the original on July 7, 2022. Retrieved July 7, 2022.
+Clifford, Catherine (February 8, 2021). "The who, what and where of Elon Musk's $100 million prize money for carbon capture innovation". CNBC. Archived from the original on July 7, 2022. Retrieved July 7, 2022.
+Chappell, Bill (February 8, 2021). "Elon Musk Funds $100 Million XPrize For Pursuit Of New Carbon Removal Ideas". NPR. Archived from the original on February 24, 2021. Retrieved July 7, 2022.
+McDowell, Jonathan (May 19, 2024). "Starlink Launch Statistics". Jonathan's Space Report. Archived from the original on May 17, 2024. Retrieved May 19, 2024.
+Wall, Mike (January 4, 2023). "61 rocket launches! SpaceX celebrates record-breaking 2022". Space.com. Archived from the original on January 8, 2023. Retrieved January 8, 2023.
+"Europe eyes Musk's SpaceX to replace Russian rockets". CNBC. Reuters. Archived from the original on August 12, 2022. Retrieved August 12, 2022.
+Carter, Tom. "Elon Musk's SpaceX is buying a company that makes parachutes for spacecraft for $2.2 million". Business Insider. Archived from the original on November 30, 2023. Retrieved November 30, 2023.
+Peterson, Becky (November 28, 2023). "SpaceX Acquires Parachute Maker Pioneer Aerospace for $2.2 Million". The Information. Archived from the original on January 18, 2024. Retrieved January 18, 2024.
+Musk, Elon [@elonmusk] (July 16, 2024). "This is the final straw. Because of this law and the many others that preceded it, attacking both families and companies, SpaceX will now move its HQ from Hawthorne, California, to Starbase, Texas" (Tweet). Retrieved July 17, 2024 – via X (formerly Twitter).
+Madler, Mark R. (April 7, 2025). "SpaceX Is Still Big Locally". Los Angeles Business Journal. Retrieved August 10, 2025. Still, SpaceX maintains a manufacturing plant in Hawthorne to develop and build the Falcon 9 rocket with hundreds of employees doing the work.
+Chang, Kenneth (September 11, 2024). "First Private Spacewalk in SpaceX Capsule Achieves New Milestone". The New York Times. Retrieved September 21, 2024.
+Jin, Berber; Peterson, Becky (July 12, 2025). "SpaceX to Invest $2 Billion Into Elon Musk's xAI". The Wall Street Journal. Retrieved July 13, 2025.
+Foust, Jeff (August 9, 2021). "SpaceX to acquire Swarm Technologies". SpaceNews. Archived from the original on August 12, 2021. Retrieved May 9, 2023.
+Maidenberg, Micah; Driebusch, Corrie; Jin, Berber (August 17, 2023). "A Rare Look Into the Finances of Elon Musk's Secretive SpaceX". The Wall Street Journal.
+Shepardson, David (December 1, 2022). "SpaceX gets U.S. approval to deploy up to 7,500 satellites". Reuters. Archived from the original on December 2, 2022. Retrieved December 2, 2022.
+Maidenberg, Micah; FitzGerald, Drew (September 8, 2025). "SpaceX's $17 Billion Deal Plunges Musk Deeper Into Wireless Market". The Wall Street Journal. Retrieved September 8, 2025.
+Elon Musk says SpaceX's Starlink satellites active over Ukraine after request from embattled country's leaders Archived February 27, 2022, at Ghost Archive, The Independent (26 February 2022)
+"Elon Musk's Starlink arrives in Ukraine but what next?". BBC News. March 1, 2022. Archived from the original on July 9, 2022. Retrieved July 12, 2022.
+@FedorovMykhailo (February 26, 2022). "@elonmusk, while you try to colonize Mars — Russia try to occupy Ukraine! While your rockets successfully land from space — Russian rockets attack Ukrainian civil people! We ask you to provide Ukraine with Starlink stations and to address sane Russians to stand" (Tweet) – via Twitter.
+Sabbagh, Dan (February 9, 2023). "Fury in Ukraine as Elon Musk's SpaceX limits Starlink use for drones". The Guardian. ISSN 0261-3077. Archived from the original on March 9, 2023. Retrieved May 20, 2023.
+"How Elon Musk's satellites have saved Ukraine and changed warfare". The Economist. ISSN 0013-0613. Archived from the original on September 23, 2023. Retrieved June 6, 2023.
+"SpaceX, USAID deliver 5,000 satellite internet terminals to Ukraine". Reuters. April 6, 2022. Archived from the original on June 6, 2023. Retrieved June 6, 2023.
+Luxmoore, Matthew (October 14, 2022). "Elon Musk said the cost of maintaining Starlink terminals in Ukraine is approaching $20 million a month and SpaceX can't fund the service indefinitely". The Wall Street Journal. Archived from the original on October 14, 2022. Retrieved October 14, 2022. Elon Musk said the cost of maintaining Starlink terminals in Ukraine is approaching $20 million a month and SpaceX can't fund the service indefinitely [...] President Volodymyr Zelensky took to Twitter to question Mr. Musk's allegiances
+Brodkin, Jon (December 20, 2022). "Ukraine to get 10,000 more Starlink antennas; funding problems are "resolved"". Ars Technica. Archived from the original on May 19, 2023. Retrieved May 19, 2023.
+Stone, Mike; Roulette, Joey (June 1, 2023). "SpaceX's Starlink wins Pentagon contract for satellite services to Ukraine". Reuters. Archived from the original on June 1, 2023. Retrieved June 1, 2023.
+"Poland has sent an additional 5,000 Starlinks to Ukraine". Ministry of Reintegration of the Temporarily Occupied Territories of Ukraine. December 24, 2023.
+Roulette, Joey (February 9, 2023). "SpaceX curbed Ukraine's use of Starlink internet for drones -company president". Reuters. Archived from the original on February 9, 2023. Retrieved February 9, 2023.
+"Musk says he didn't turn on Starlink near Crimea due to US sanctions on Russia". The Kyiv Independent. September 13, 2023. Archived from the original on September 14, 2023. Retrieved September 18, 2023.
+Darcy, Oliver (September 12, 2023). "An explosive Elon Musk biography is just hitting shelves. But the book's acclaimed author is already walking back a major claim". CNN. Archived from the original on September 22, 2023. Retrieved September 15, 2023.
+Capoot, Ashley (September 9, 2023). "Elon Musk biographer moves to 'clarify' details about Ukraine and Starlink after backlash". CNBC. Archived from the original on September 15, 2023. Retrieved September 14, 2023.
+"SpaceX's Starshield means Starlink has become a juggernaut". November 22, 2023. Archived from the original on December 4, 2023.
+Porter, Jon (September 28, 2023). "SpaceX inks first Space Force deal for government-focused Starshield satellite network". The Verge. Archived from the original on January 5, 2024. Retrieved January 5, 2024.
+"Ілон Маск відреагував на погрози Рогозіна нібито через постачання Starlink українській армії". LIGA (in Ukrainian). May 9, 2022. Archived from the original on June 11, 2022. Retrieved July 12, 2022.
+"Ukraine says Russian forces obtaining Musk's Starlink via third countries". Reuters. February 12, 2024. Retrieved February 15, 2024.
+"Bloomberg: Pentagon blocks Russian military from accessing Starlink in Ukraine". The Kyiv Independent. May 9, 2024. Retrieved May 11, 2024.
+Sauer, Pjotr (February 9, 2026). "Russian military scrambles to find Starlink alternative after access blocked". The Guardian. ISSN 0261-3077. Retrieved July 2, 2026.
+Olson, Emily; Archie, Ayana (April 20, 2023). "SpaceX's massive rocket Starship explodes 4 minutes after liftoff". NPR. Archived from the original on April 20, 2023. Retrieved April 20, 2023.
+Berger, Eric (April 20, 2023). "So what was that? Was Starship's launch a failure or a success?". Ars Technica. Archived from the original on April 21, 2023. Retrieved November 15, 2023.
+Wattles, Jackie; Danya, Gainor (April 29, 2023). "Starship could be ready to launch again in 'six to eight weeks,' Elon Musk says". CNN. Archived from the original on November 11, 2023. Retrieved November 11, 2023.
+Wattles, Jackie; Fisher, Kristin (October 19, 2023). "SpaceX slams regulatory 'headwinds' for holding up Starship, risking US dominance in space". CNN. Archived from the original on November 11, 2023. Retrieved November 11, 2023.
+"SpaceX Starship Launch Ends in Explosion". The New York Times. November 18, 2023. Archived from the original on April 3, 2024. Retrieved November 19, 2023.
+"SpaceX poised to launch 22 Starlink satellites early Nov. 19". Space.com. November 18, 2023. Archived from the original on November 19, 2023. Retrieved November 19, 2023.
+"SpaceX launches giant new rocket but a pair of explosions ends the second test flight". The Hindu. November 18, 2023. Archived from the original on November 19, 2023. Retrieved November 19, 2023.
+Thorpe, Vanessa (November 19, 2023). "Rows and rockets blow up as Elon Musk's firms endure turbulent weekend". The Guardian. Archived from the original on November 19, 2023. Retrieved November 19, 2023.
+Wall, Mike (March 13, 2024). "FAA grants license for SpaceX's March 14 Starship launch". Space.com. Archived from the original on April 3, 2024. Retrieved March 21, 2024.
+Malik, Tariq (June 4, 2024). "SpaceX lands FAA license for next Starship megarocket launch on June 6". Space.com. Retrieved June 5, 2024.
+Wattles, Jackie (October 12, 2024). "SpaceX gets regulatory approval for fifth test flight of Starship rocket". CNN. Retrieved November 5, 2024.
+Weber, Ryan (October 12, 2024). "SpaceX Catches a Super Heavy Booster During a Milestone Flight 5". NASASpaceFlight.com. Retrieved October 14, 2024.
+Weber, Ryan (November 18, 2024). "SpaceX lands Ship 31 in the Indian Ocean but miss the Booster Catch". NASASpaceFlight.com. Retrieved November 20, 2024.
+SpaceX Launches Starship Flight 6 (and Catches a Booster). NASASpaceflight. November 16, 2024. Retrieved November 19, 2024 – via YouTube.
+Wattles, Jackie; Fatahi, Kia (January 17, 2025). "Regulators are investigating reports of property damage from SpaceX Starship's explosion". CNN.
+Tingley, Brett; published, Mike Wall (January 17, 2025). "Watch SpaceX Starship explode over Atlantic Ocean on Flight Test 7 (videos)". Space.com. Retrieved January 24, 2025.
+"SpaceX's latest Starship test flight ends with another explosion". AP News. March 6, 2025. Retrieved March 7, 2025.
+Roush, Ty. "Elon Musk Defends Second-Straight Explosion For SpaceX's Starship As 'Minor Setback'". Forbes. Retrieved March 7, 2025.
+Harwood, William (June 19, 2025). "SpaceX Starship upper stage explodes during ramp-up to expected engine test firing". CBS News. Retrieved June 19, 2025.
+Lingle, Brandon; Darwiche, Leila (January 26, 2026). "SpaceX explosion shook South Texas, sparking oversight and safety concerns". San Antonio Express-News.
+Faust, Jeff (May 22, 2026). "SpaceX launches first Starship V3". SpaceNews.
+Roulette, Joey; Nesius, Steve; Roulette, Joey (September 28, 2026). "SpaceX's Starship makes orbital debut deploying Starlinks before early ending". Reuters. Retrieved September 29, 2026.
+Wang, Echo; Vinn, Milana; Tracy, Matt (February 5, 2026). "The sale of xAI comes with tax, financial and legal benefits for xAI and SpaceX investors". Reuters.
+Kolodny, Lora; Levy, Ari (February 2, 2026). "Elon Musk's SpaceX acquiring AI startup xAI ahead of potential IPO". CNBC. Retrieved February 2, 2026.
+Wang, Echo (February 2, 2026). "SpaceX acquires xAI in record-setting deal as Musk looks to unify AI and space ambitions". Reuters. Retrieved February 3, 2026.
+Wang, Echo; Roulette, Joey (February 2, 2026). "SpaceX acquires xAI in record-setting deal as Musk looks to unify AI and space ambitions". Reuters.
+"SpaceX Terafab announcement". SpaceX. March 21, 2026.
+"Why Tesla's Terafab Might Be Elon Musk's Biggest Challenge Yet". Business Insider. March 21, 2026.
+Griffith, Erin; Isaac, Mike; Mac, Ryan (April 21, 2026). "SpaceX Said to Agree to Buy Cursor for More Than $50 Billion". The New York Times. Retrieved April 21, 2026.
+Brandom, Russell (May 6, 2026). "Is xAI a neocloud now?". TechCrunch. Retrieved May 27, 2026.
+Goode, Lauren. "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird". Wired. ISSN 1059-1028. Retrieved June 6, 2026.
+Peterson, Becky (June 5, 2026). "Google to Pay SpaceX Nearly $1 Billion a Month in Cloud-Computing Deal". The Wall Street Journal. Retrieved June 6, 2026.
+Foust, Jeff (May 31, 2026). "FAA documents outline SpaceX plans for Starfall reentry vehicles". SpaceNews. Retrieved July 10, 2026.
+"Dynamic Regulatory System". drs.faa.gov. Retrieved July 10, 2026.
+Jackie Wattles; Chris Isidore (December 10, 2025). "Musk reportedly plans record IPO for SpaceX. Here's what that means". CNN. Retrieved January 5, 2026.
+Harring, Alex (January 2, 2026). "SpaceX stock debut is the big market event of 2026. Why Musk's venture could be biggest IPO ever". CNBC. Retrieved January 5, 2026.
+Berger, Eric (December 10, 2025). "After years of resisting it, SpaceX now plans to go public. Why?". Ars Technica. Retrieved January 5, 2026.
+Levingston, Ivan; Massoudi, Arash; Morris, Stephen; Steer, George (January 22, 2026). "Elon Musk's SpaceX lines up 4 banks for blockbuster IPO?". Financial Times.
+Jeans, David; Wang, Echo (April 29, 2026). "Inside SpaceX's IPO: Musk's most ambitious plan yet". Reuters.
+Wang, Echo; Binnie, Isla (April 29, 2026). "Exclusive: Only Elon Musk can fire Elon Musk from SpaceX, filing shows". Reuters.
+"SpaceX Filing Starts Countdown to Massive IPO". The Wall Street Journal. May 20, 2026. Retrieved May 20, 2026.
+"SpaceX confirms biggest IPO in history, valuing company at $1.75 trillion". The Times. Retrieved June 4, 2026.
+Kolodny, Lora (June 12, 2026). "SpaceX IPO live updates: Maye Musk arrives at Nasdaq, protesters set up in Times Square". CNBC. Retrieved June 12, 2026.
+"Starmind". SpaceX. Retrieved August 30, 2026.
+"SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale". Nvidia Newsroom. Nvidia. August 24, 2026. Retrieved August 30, 2026.
+"Falcon 9 Overview". SpaceX. 2011. Archived from the original on February 10, 2007. Retrieved March 1, 2017.
+"NASA – SpaceX Successfully Launches Falcon 1 to Orbit". NASA. September 28, 2008. Archived from the original on September 3, 2021. Retrieved December 30, 2021.
+"Falcon 9 & Falcon Heavy". SpaceX Info. Archived from the original on July 21, 2020. Retrieved February 3, 2021. The v1.2 design was constantly improved upon over time, leading to different sub-versions or "Blocks". The initial design, flying on the maiden flight was thus referred to as Block 1. The final design which has largely stayed static since 2018 is the Block 5 variant.
+"Falcon Heavy Overview". Space.com. 2011. Archived from the original on October 5, 2011. Retrieved March 1, 2017.
+Lindsey, Clark (January 4, 2013). "NewSpace flights in 2013". NewSpace Watch. Archived from the original on May 26, 2013. Retrieved January 3, 2013.
+"Falcon Heavy". SpaceX. November 15, 2012. Archived from the original on April 6, 2017. Retrieved April 5, 2017.
+Public Domain This article incorporates text from this source, which is in the public domain: "Air Force's Space and Missile Systems Center Certifies SpaceX for National Security Space Missions". U.S. Air Force. May 26, 2015. Archived from the original on March 1, 2017. Retrieved March 1, 2017.
+Erwin, Sandra (September 21, 2019). "Air Force certified Falcon Heavy for national security launch but more work needed to meet required orbits". SpaceNews. Archived from the original on April 27, 2021. Retrieved September 22, 2019.
+"SpaceX Missions Summary". Archived from the original on June 22, 2021. Retrieved June 6, 2021.
+"Total Mission Counter". Archived from the original on June 22, 2021. Retrieved June 6, 2021.
+Gebhardt, Chris (September 29, 2017). "The Moon, Mars, and around the Earth – Musk updates BFR architecture, plans". Archived from the original on October 1, 2017. Retrieved May 16, 2020.
+"Elon Musk says moon mission is "dangerous" but SpaceX's first passenger isn't scared". CBS News. September 18, 2018. Archived from the original on November 27, 2018. Retrieved February 2, 2019.
+O'Callaghan, Jonathan (July 31, 2019). "The wild physics of Elon Musk's methane-guzzling super-rocket". Wired. Archived from the original on February 22, 2021.
+"Falcon 1 Flight Three Press Kit" (PDF). SpaceX. Archived from the original (PDF) on October 1, 2008. Retrieved September 30, 2008.
+"Falcon 9 Launch Vehicle Payload User's Guide, 2009" (PDF). SpaceX. 2009. Archived from the original (PDF) on May 3, 2012. Retrieved March 1, 2017.
+Bergin, Chris (May 30, 2014). "SpaceX lifts the lid on the Dragon V2 crew spacecraft". NASAspaceflight. Archived from the original on May 31, 2014.
+"Falcon 9 User's Guide" (PDF). Archived from the original (PDF) on February 20, 2019. Retrieved February 25, 2019.
+"Encyclopedia Astronautica Kestrel". Archived from the original on December 16, 2013. Retrieved June 22, 2021.
+Berger, Eric (March 7, 2019). "SpaceX's Dragon capsule has survived its greatest test – returning to Earth". Ars Technica. Archived from the original on December 30, 2021. Retrieved December 30, 2021.
+"SpaceX performs first test of Raptor engine". SpaceNews. September 26, 2016. Archived from the original on February 20, 2023.
+"Big News! SpaceX's Starhopper Test Vehicle Completes First Free Flight!". July 26, 2019. Archived from the original on August 11, 2019. Retrieved August 11, 2019.
+Thompson, Amy (December 5, 2020). "Tissue chips and organoids: SpaceX is launching lots of science to space for NASA on Sunday". Space.com. Archived from the original on December 26, 2021. Retrieved December 26, 2021.
+Public Domain This article incorporates text from this source, which is in the public domain: Potter, Sean (March 27, 2020). "NASA Awards Artemis Contract for Gateway Logistics Services". NASA. Archived from the original on March 27, 2020. Retrieved March 28, 2020.
+"Dragon XL revealed as NASA ties SpaceX to Lunar Gateway supply contract". NASASpaceflight. March 27, 2020. Archived from the original on March 28, 2020. Retrieved March 28, 2020.
+Howell, Elizabeth (June 10, 2020). "New SpaceX spacesuits get five-star rating from NASA astronauts". Space.com. Retrieved May 4, 2024.
+Foust, Jeff (May 4, 2024). "SpaceX reveals EVA suit design as Polaris Dawn mission approaches". SpaceNews.
+Simberg, Rand (February 8, 2012). "Elon Musk on SpaceX's Reusable Rocket Plans". Popular Mechanics. Archived from the original on June 24, 2017. Retrieved March 1, 2017.
+"Elon Musk Names SpaceX Drone Ships in Honor of Sci-Fi Legend". Space.com. February 4, 2015. Archived from the original on June 2, 2020. Retrieved May 31, 2020.
+Foust, Jeff (February 14, 2023). "SpaceX drops plans to convert oil rigs into launch platforms". SpaceNews. Retrieved November 29, 2024.
+"Order on Review (FCC 23–105)" (PDF). Federal Communications Commission. December 12, 2023. Archived (PDF) from the original on December 24, 2023. Retrieved March 29, 2024. After the auction, SpaceX assigned its winning bids to its wholly-owned subsidiary, Starlink.
+SpaceX (September 9, 2022). "Starlink Services LLC RDOF AFR – For Public Inspection". Federal Communications Commission. Archived from the original on October 19, 2022. Retrieved March 29, 2024.
+de Selding, Peter B. (January 19, 2015). "SpaceX To Build 4,425 Broadband Satellites in Seattle". SpaceNews.
+"Falcon 9 launches first Starlink mission – heaviest payload launch by SpaceX to date". NASASpaceFlight. May 23, 2019. Archived from the original on June 3, 2019. Retrieved July 4, 2019.
+Sheetz, Michael (October 27, 2020). "SpaceX prices Starlink satellite internet service at $99 per month, according to e-mail". CNBC. Archived from the original on February 4, 2021. Retrieved December 25, 2021.
+"SpaceX opens Starlink satellite Internet pre-orders to the public". Engadget. February 10, 2021. Archived from the original on February 10, 2021. Retrieved February 10, 2021.
+O'Callaghan, Jonathan (October 27, 2020). "SpaceX Reveals Monthly Cost Of Starlink Internet In Its 'Better Than Nothing Beta'". Forbes. Archived from the original on November 17, 2020. Retrieved October 30, 2020.
+@SpaceX (December 19, 2022). "Starlink now has more than 1,000,000 active subscribers" (Tweet) – via Twitter.
+Hall, Shannon (June 2019). "After SpaceX Starlink Launch, a Fear of Satellites That Outnumber All Visible Stars". The New York Times. Archived from the original on August 21, 2020. Retrieved June 3, 2019.
+"The unexpected brightness of new satellites could ruin the night sky". The Economist. May 30, 2019. Archived from the original on November 17, 2020. Retrieved June 3, 2019.
+"SpaceX's Starlink Could Change The Night Sky Forever, And Astronomers Are Not Happy". Forbes. Archived from the original on November 17, 2020. Retrieved June 3, 2019.
+"Will Elon Musk's Starlink satellites harm astronomy? Here's what we know". National Geographic. May 29, 2019. Archived from the original on March 9, 2021.
+"Astronomy Discussion with National Academy of Sciences". SpaceX. April 28, 2020. Archived from the original on May 16, 2021. Retrieved April 4, 2021.
+O'Callaghan, Jonathan (May 13, 2019). "SpaceX's Starlink Could Cause Cascades of Space Junk". Scientific American. Archived from the original on November 17, 2020. Retrieved August 2, 2020.
+Hattenbach, Jan (June 3, 2019). "Does Starlink Pose a Space Debris Threat? An Expert Answers". Sky & Telescope. Archived from the original on November 17, 2020.
+"Starlink Block v1.0". space.skyrocket.de. Archived from the original on November 17, 2020. Retrieved July 1, 2021.
+"Musk's SpaceX wins Pentagon award for missile tracking satellites". Reuters. October 5, 2020. Archived from the original on December 11, 2022. Retrieved December 13, 2022.
+Sheetz, Michael (June 20, 2024). "SpaceX unveils backpack-sized 'Starlink Mini' satellite internet antenna for $599". Archived from the original on June 26, 2024. Retrieved June 27, 2024.
+Hull, Dana; Chapa, Sergio. "Elon's Texas Empire". bloomberg.com. Archived from the original on November 5, 2021. Retrieved January 8, 2022.
+Hennigan, W. J. (January 31, 2011). "SpaceX to open a new office in the Washington, D.C., area". Los Angeles Times. Retrieved August 22, 2024.
+Belfiore, Michael (January 20, 2012). "Inside SpaceX: We Visit the Company's California Headquarters – Slide 3". Popular Mechanics. Archived from the original on March 6, 2017. Retrieved March 1, 2017.
+Berger, Eric (July 26, 2019). "SpaceX's Starship prototype has taken flight for the first time". Ars Technica. Archived from the original on August 4, 2019. Retrieved March 16, 2021.
+Clark, Stephen (July 17, 2024). "Elon Musk says SpaceX and X will relocate their headquarters to Texas". Ars Technica. Retrieved August 22, 2024.
+"Gov. Perry Announces State Incentives Bringing SpaceX Commercial Launch Facility, 300 Jobs to the Brownsville Area". Office of the Governor Rick Perry. August 4, 2014. Archived from the original on August 29, 2014. Retrieved March 1, 2017.
+Berger, Eric (August 4, 2014). "Texas, SpaceX announce spaceport deal near Brownsville". MySanAntonio.com. Archived from the original on February 27, 2017. Retrieved March 1, 2017.
+Foust, Jeff (September 22, 2014). "SpaceX Breaks Ground on Texas Spaceport". SpaceNews.
+Kolodny, Lora (August 12, 2024). "SpaceX repeatedly polluted waters in Texas this year, regulators found". CNBC. Retrieved August 25, 2024.
+Lingle, Brandon (September 12, 2024). "SpaceX fined nearly $150,000 by the EPA for wastewater violations". San Antonio Express-News. Retrieved September 12, 2024.
+Paur, Jason (October 10, 2012). "Inside SpaceX's Texas Rocket-Testing Facility". Wired. Archived from the original on January 9, 2013. Retrieved December 31, 2012.
+Bergin, Chris (June 20, 2013). "Reducing risk via ground testing is a recipe for SpaceX success". NASAspaceflight.com. Archived from the original on January 18, 2017. Retrieved August 21, 2013.
+Sanchez, Sandra (December 22, 2011). "SpaceX: Blasting into the future — A Waco Today interview with Elon Musk". Waco Tribune. Archived from the original on July 30, 2018. Retrieved October 7, 2015.
+Shotwell, Gwynne (March 17, 2015). "Statement Of Gwynne Shotwell, President & Chief Operating Officer, Space Exploration Technologies Corp. (SpaceX)" (PDF). United States House Armed Services Subcommittee on Strategic Forces. Archived (PDF) from the original on January 28, 2016. Retrieved January 11, 2016. SpaceX's 4,000 acre Rocket Development Facility in Central Texas includes 12 test stands that support engine component testing; design, qualification and acceptance testing of Merlin engines; structural testing of the first and second stages; and fully integrated stage testing for full mission durations. The state-of-the-art facility has remote and/or automatic controls and high-speed data acquisition systems, and post test data are available for analysis upon test completion.
+Shotwell, Gwynne (September 24, 2024). Testimony to the Texas House of Representatives Committee on Appropriations (video). Event occurs at 28:23.
+U.S. Federal Aviation Administration (November 2011) "Final Environmental Assessment for Issuing an Experimental Permit to SpaceX for Operation of the Grasshopper Vehicle at the McGregor Test Site, Texas", p. 1.
+Elon Musk says SpaceX's next Texas venture will be a rocket engine factory near Waco, https://www.dallasnews.com/business/technology/2021/07/10/elon-musk-says-spacexs-next-texas-venture-will-be-a-rocket-engine-factory-near-waco/, Dallas Morning News July 10, 2021, access-date11 July 2021.
+@elonmusk (July 10, 2021). "We are breaking ground soon on a second Raptor factory at SpaceX Texas test site. This will focus on volume production of Raptor 2, while California factory will make Raptor Vacuum & new, experimental designs" (Tweet) – via Twitter.
+Klotz, Irene (August 2, 2013). "SpaceX Appetite for U.S. Launch Sites Grows". SpaceNews. Archived from the original on August 2, 2023. Retrieved November 24, 2022.
+"Falcon User's Guide" (PDF). SpaceX. 2021. p. 11. Archived (PDF) from the original on December 8, 2023. Retrieved January 21, 2024.
+"SpaceX launches first polar orbit mission from Florida in decades". August 31, 2020. Archived from the original on December 24, 2022. Retrieved January 21, 2024.
+Spudis, Paul D. (July 22, 2012). "The Tale of Falcon 1". Smithsonian Magazine.
+Wolf, Jim (April 26, 2007). "U.S. lets SpaceX operate at Cape Canaveral". Reuters. Archived from the original on April 21, 2021. Retrieved April 21, 2021.
+Howell, Elizabeth (May 21, 2020). "See the Evolution of SpaceX's Rockets in Pictures". Space.com. Archived from the original on April 13, 2021. Retrieved April 21, 2021.
+Edwards, Brooke. "SpaceX proposes increase in rocket launches from Cape Canaveral and new landing zone". Florida Today. Retrieved August 1, 2025.
+"ePermit". SJRWMD. Retrieved August 1, 2025.
+"SpaceX Starship-Super Heavy Project at Kennedy Space Center Launch Complex 39A". Federal Aviation Administration. Archived from the original on July 27, 2025. Retrieved August 1, 2025.
+Bergin, Chris (April 5, 2011). "SpaceX: Falcon Heavy, Falcon 9 tag team set to share 20 launches a year". NASASpaceFlight.com. Archived from the original on March 6, 2017. Retrieved March 1, 2017.
+"SpaceX Falcon 9 launches with SAOCOM 1A and nails first West Coast landing". NASASpaceFlight. October 7, 2018. Archived from the original on January 9, 2019. Retrieved February 11, 2019.
+Public Domain This article incorporates text from this source, which is in the public domain: Granath, Bob (March 24, 2015). "NASA, SpaceX Sign Property Agreement for Historic Launch Pad". NASA. Archived from the original on February 7, 2018. Retrieved March 29, 2018.
+Public Domain This article incorporates text from this source, which is in the public domain: "NASA, Partners Update Commercial Crew Launch Dates – Commercial Crew Program". NASA. February 6, 2019. Archived from the original on February 6, 2019. Retrieved February 11, 2019.
+Ralph, Eric (February 16, 2022). "SpaceX preparing to assemble launch tower for Starship's first Florida pad". Teslarati. Archived from the original on April 7, 2022. Retrieved March 16, 2022.
+Mac, Ryan (August 25, 2026). "SpaceX to Spend $100 Billion on New Spaceport in Louisiana". The New York Times. Retrieved September 7, 2026.
+Klotz, Irene (August 25, 2026). "SpaceX Unveils 10-Pad Spaceport In Louisiana For Starship". Aviation Week. {{cite news}}: |access-date= requires |url= (help)
+"Roman Space Telescope, NASA's next 'great observatory,' launched". Spaceflight Now. August 30, 2026. Retrieved September 7, 2026.
+Dennis Stone, "NASA's Approach to Commercial cargo and Crew Transportation", Acta Astronautica, 63, No. 1–4 (2008): 192–197.
+Berger, Eric (May 20, 2020). "The numbers don't lie – NASA's move to commercial space has saved money". Ars Technica. Archived from the original on December 26, 2021. Retrieved December 26, 2021.
+Zapata, Edgar (September 12, 2017). "An Assessment of Cost Improvements in the NASA COTS/CRS Program and Implications for Future NASA Missions" (PDF). AIAA Space 2017. Archived (PDF) from the original on June 17, 2019 – via NASA.
+Siceloff, Steven. "NASA – SpaceX Launches Success with Falcon 9/Dragon Flight". NASA. Archived from the original on June 12, 2020. Retrieved December 30, 2021.
+Chang, Kenneth (May 22, 2012). "Big Day for a Space Entrepreneur Promising More". The New York Times. Archived from the original on July 1, 2017. Retrieved March 1, 2017.
+Rhian, Jason (September 27, 2014). "NASA continues Commercial 'push' with CRS extension". Spaceflight Insider. Archived from the original on October 20, 2016. Retrieved March 1, 2017.
+"NASA Celebrates Dragon's Return". NASA. Archived from the original on March 5, 2016. Retrieved March 1, 2017.
+Bergin, Chris (March 3, 2015). "NASA lines up four additional CRS missions for Dragon and Cygnus". NASASpaceFlight.com. Archived from the original on January 30, 2017. Retrieved March 1, 2017.
+de Selding, Peter B. (February 24, 2016). "SpaceX wins 5 new space station cargo missions in NASA contract estimated at $700 million". SpaceNews.
+"SMSR Integrated Master Schedule" (PDF). NASA. April 28, 2021. Archived (PDF) from the original on June 3, 2020. Retrieved May 3, 2021.
+"Microgravity Research Flights". NASA. February 25, 2021. Archived from the original on March 18, 2021. Retrieved February 27, 2021.
+Sheetz, Michael (March 27, 2020). "SpaceX's most powerful rocket will send NASA cargo to the moon's orbit to supply astronauts". CNBC. Archived from the original on March 30, 2020. Retrieved April 1, 2020.
+"Private Space Taxi's Crew Escape System Passes Big Hurdle". Space.com. October 28, 2011. Archived from the original on December 27, 2011.
+Morring, Frank Jr. (April 25, 2011). "Five Vehicles Vie For Future Of U.S. Human Spaceflight". Aviation Week. Archived from the original on May 9, 2014.
+Public Domain This article incorporates text from this source, which is in the public domain: "NASA Announces Next Steps in Effort to Launch Americans from U.S. Soil". NASA. August 3, 2012. Archived from the original on March 19, 2017. Retrieved March 1, 2017.
+Public Domain This article incorporates text from this source, which is in the public domain: "NASA Chooses American Companies to Transport U.S. Astronauts to International Space Station". NASA. September 16, 2014. Archived from the original on March 20, 2019. Retrieved March 1, 2017.
+"SpaceX Demonstrates Astronaut Escape System for Crew Dragon Spacecraft" (Press release). NASA. May 6, 2015.
+Sheetz, Michael (March 8, 2019). "SpaceX completes historic Crew Dragon test flight for NASA with splashdown in the Atlantic". CNBC.
+Public Domain This article incorporates text from this source, which is in the public domain: Northon, Karen (January 19, 2020). "NASA, SpaceX Complete Final Major Flight Test of Crew Spacecraft". NASA (Press release). Archived from the original on January 23, 2020. Retrieved January 22, 2020.
+"Demo-2 Success Lays Groundwork for Future Commercial Crew Missions". AmericaSpace. August 3, 2020. Archived from the original on December 4, 2020. Retrieved November 17, 2020.
+Wattles, Jackie. "SpaceX-NASA mission: Four astronauts arrive at International Space Station". CNN. Archived from the original on November 17, 2020. Retrieved November 17, 2020.
+"Dragon Resilience Docks at Space Station, Expands Expedition 64 to Seven Crew". AmericaSpace. November 17, 2020. Archived from the original on November 17, 2020. Retrieved November 17, 2020.
+Sheetz, Michael (April 23, 2021). "SpaceX Crew-2 reaches orbit, with Elon Musk's company launching 10 astronauts in under a year". CNBC. Archived from the original on June 13, 2021. Retrieved June 1, 2021.
+Sheetz, Michael (April 24, 2021). "Two SpaceX crew spacecraft are now docked to the space station, as the Crew-2 mission arrives". CNBC. Archived from the original on June 2, 2021. Retrieved June 1, 2021.
+Stein, Vicky (September 23, 2021). "Inspiration4: The first all-civilian spaceflight on SpaceX Dragon". Space.com. Archived from the original on September 28, 2021. Retrieved September 28, 2021.
+"SpaceX Awarded $100 Million Contract From U.S. Air Force for Falcon I". SpaceNews (Press release). May 2, 2005.
+Public Domain This article incorporates text from this source, which is in the public domain: "NASA Awards Launch Services Contract to SpaceX". NASA (Press release). April 22, 2008. Archived from the original on March 12, 2017. Retrieved March 1, 2017.
+Grush, Loren (June 24, 2019). "Why the third launch of SpaceX's Falcon Heavy rocket has the highest stakes yet". The Verge. Archived from the original on December 26, 2021. Retrieved December 26, 2021.
+Shalal, Andrea (May 26, 2015). "U.S. Air Force certifies SpaceX for national security launches". Reuters. Archived from the original on February 3, 2019. Retrieved February 2, 2019.
+Gruss, Mike (April 27, 2016). "SpaceX wins $82 million contract for 2018 Falcon 9 launch of GPS 3 satellite". SpaceNews.
+Klotz, Irene (April 28, 2016). "SpaceX undercut ULA rocket launch pricing by 40 percent: U.S. Air Force". Reuters. Archived from the original on February 16, 2017. Retrieved March 1, 2017.
+"SpaceX's low cost won GPS 3 launch, Air Force says". SpaceNews. March 15, 2017. Archived from the original on August 2, 2023. Retrieved November 24, 2022.
+Kelly, Emre (March 15, 2018). "ULA, SpaceX secure nearly $650 million in Air Force launch contracts". Florida Today. Archived from the original on November 4, 2018. Retrieved March 29, 2018.
+"SpaceX prepares for its first big NRO launch". SpaceNews. April 26, 2017.
+Erwin, Sandra (February 19, 2019). "Air Force awards $739 million in launch contracts to ULA and SpaceX". SpaceNews.
+Wattles, Jackie (August 7, 2020). "SpaceX and ULA win military launch competition worth $653 million – and that's just the start". CNN. Archived from the original on August 8, 2020. Retrieved August 8, 2020.
+Erwin, Sandra (October 5, 2020). "L3Harris, SpaceX win Space Development Agency contracts to build missile-warning satellites". SpaceNews.
+"2019 Missile Defense Review" (PDF). Office of the Secretary of Defense. November 1, 2019. Archived (PDF) from the original on January 18, 2019. Retrieved June 21, 2022.
+"Statement by Deputy Head of the Russian Delegation on Outer Space Disarmament Aspects". Russian Federation to the United Nations. October 26, 2022. Archived from the original on November 10, 2022. Retrieved November 10, 2022.
+"Approaching the Third Rail? A Trilateral Treaty to Prohibit Space-Based Missile Defenses". Carnegie Endowment for International Peace. December 16, 2021. Archived from the original on November 20, 2022.
+"Space-based Missile Defense". Union of Concerned Scientists. August 30, 2018. Archived from the original on October 17, 2022. Retrieved December 1, 2021.
+Roulette, Joey; Marisa, Taylor (March 16, 2024). "Exclusive: Musk's SpaceX is building spy satellite network for US intelligence agency, sources say". Reuters. Archived from the original on March 27, 2024. Retrieved April 6, 2024.
+"Why Musk Doesn't Have Access to SpaceX's Biggest Government Secrets". The Wall Street Journal. December 16, 2024.
+Amos, Jonathan (December 3, 2013). "SpaceX launches SES commercial TV satellite for Asia". BBC News. Archived from the original on January 2, 2017. Retrieved March 1, 2017.
+Belfiore, Michael (December 9, 2013). "The Rocketeer". Foreign Policy. Archived from the original on March 17, 2017. Retrieved March 1, 2017.
+Ramli, David (May 19, 2015). "NBN launcher Arianespace to cut jobs and costs to fight SpaceX". The Sydney Morning Herald. Archived from the original on June 12, 2017. Retrieved March 1, 2017.
+Shalal, Andrea (May 21, 2015). "Lockheed-Boeing rocket venture needs commercial orders to survive". Yahoo. Archived from the original on March 5, 2017. Retrieved March 1, 2017.
+Avery, Greg (December 14, 2014). "ULA plans new rocket, restructuring to cut launch costs in half". American City Business Journals. Archived from the original on March 15, 2017.
+Petersen, Melody (October 16, 2014). "Congress OKs bill banning purchases of Russian-made rocket engines". Los Angeles Times. Archived from the original on March 7, 2017. Retrieved March 1, 2017.
+Berger, Eric (June 3, 2020). "Forget Dragon, the Falcon 9 rocket is the secret sauce of SpaceX's success". Ars Technica. Archived from the original on August 17, 2020. Retrieved August 21, 2020.
+Lentz, Danny (April 7, 2024). "SpaceX debuts new Bandwagon rideshare service". NASASpaceflight. Archived from the original on April 8, 2024. Retrieved April 8, 2024.
+Musk Moves Closer to Mars Voyage. Trinitiy Business Review, March 6, 2019.
+Hondas in Space. Fast Company, February 2005.
+Foust, Jeff (November 17, 2005). "Big plans for SpaceX". The Space Review.
+Elon Musk. Updates, vom August 17, 2007.
+Pasztor, Andy (December 24, 2008). "NASA Takes a Leap in Outsourcing". The Wall Street Journal.
+"SpaceX – Year in Review". Sat Magazine. December 2009.
+"SpaceX Achieves Orbital Bullseye With Inaugural Flight of Falcon 9 Rocket". SpaceRef. June 7, 2010.
+"SpaceX Continues Rapid Growth with New Office in Chantilly, Virginia". SpaceRef. January 31, 2011.
+Doug Messier. Ka-ching! SpaceX's Valuation Soars After Successful Dragon Flight. Archived January 15, 2024, at the Wayback Machine. Parabolic Arc, June 7, 2012.
+SpaceX again ready to blast off after last-second launch abort. Los Angeles Times, May 21, 2012.
+Doug Messier. ISPCS Morning Session: Gwynne Shotwell of SpaceX. Archived January 15, 2024, at the Wayback Machine. Parabolic Arc, October 16, 2013.
+SpaceX Is Now Worth More Than Dropbox, Snapchat, Or Airbnb. The Verge, August 19, 2014.
+D'Onfro, Jillian (January 21, 2015). "SpaceX Is Now Worth More Than Dropbox, Snapchat, Or Airbnb". Business Insider. Retrieved June 19, 2026.
+Elon Musk's stake in SpaceX is actually worth more than his Tesla shares. Elektrek, November 16, 2016.
+SpaceX's Redmond effort 'very speculative' . The Seattle Times, 7. November 2016.
+SpaceX raises another 100 mln USD. Xinhua, 18. November 2017.
+Jeff Foust. Twitter-messaget, November 2017.
+Jeff Foust. Space ventures raise nearly $1 billion in first quarter of 2018, led by SpaceX. Spacenews, 12. April 2018.
+SpaceX on sacra.com.
+Friesen, Garth (December 3, 2024). "SpaceX $350B Valuation Would Make The World's Most Valuable Startup". Forbes.
+Sheetz, Michael (March 2021). "SpaceX denounces Justice Department's subpoena in hiring practices investigation as 'government overreach'". CNBC.
+Salinas, Sara (August 17, 2023). "SpaceX reportedly turned a profit in the first quarter". CNBC. Retrieved August 19, 2023.
+Elon Musk: A future worth getting excited about – via YouTube.
+"SpaceX eyes $15 bln in sales next year on Starlink strength – Bloomberg News". Reuters. November 6, 2023.
+Kolodny, Lora (January 2, 2023). "SpaceX raising $750 million at a $137 billion valuation, investors include Andreessen-Horowitz". CNBC.
+LaRocco, Lori Ann; Sheetz, Michael (December 13, 2023). "SpaceX valuation climbs to $180 billion". CNBC. Retrieved June 14, 2024.
+"Complaint for Declaratory and Injunctive Relief" (PDF). Retrieved September 20, 2023 – via CourtListener.
+Kuhr, Jack (January 29, 2025). "Estimating SpaceX's 2024 Revenue". Payload. Retrieved July 10, 2025.
+Tremayne-Pengelly, Alexandra (June 5, 2025). "Elon Musk Reveals How Much Money SpaceX Will Make This Year". Observer Media. Retrieved July 10, 2025.
+Ludlow, Edward; Johnson, Eric; Roof, Katie; Grush, Loren (July 8, 2025). "SpaceX Valuation to Hit Around $400 Billion in Share Sale". Bloomberg News. Retrieved July 10, 2025.
+Team, Trefis. "Is SpaceX's $800 Billion Valuation Too Low?". Forbes. Archived from the original on December 24, 2025. Retrieved January 5, 2026.
+Gioino, Catherina. "SpaceX valuation now at over $2 trillion as stock climbs to $165 a share: Live updates from the IPO debut". Fortune. Retrieved June 12, 2026.
+Mac, Ryan (May 26, 2026). "How SpaceX Is Structured to Favor Elon Musk". The New York Times. ISSN 0362-4331. Retrieved June 13, 2026.
+"SpaceX - Leadership". ir.spacex.com. Retrieved June 24, 2026.
+Kolodny, Lora (June 17, 2026). "SpaceX adds longtime Elon Musk ally Roelof Botha to board". CNBC. Retrieved June 24, 2026.
+Sheetz, Michael (November 11, 2022). "SpaceX shakes up Starship leadership in Texas as push for the rocket's next milestone intensifies". CNBC. Archived from the original on November 11, 2022. Retrieved November 11, 2022.
+"SpaceX's Gwynne Shotwell Takes Over Starbase Mars Mission". The Information. November 10, 2022. Archived from the original on November 11, 2022. Retrieved November 11, 2022.
+"Tesla Official Afshar Turns Up at SpaceX in New Starship Role". Bloomberg News. November 10, 2022. Archived from the original on November 11, 2022. Retrieved November 11, 2022.
+Craig, Susanne; Grind, Kirsten (August 16, 2025). "SpaceX Gets Billions From the Government. It Gives Little to Nothing Back in Taxes". The New York Times.
+Garver, Lori B. (2022). Escaping Gravity: My Quest to Transform NASA and Launch a New Space Age. Foreword by Walter Isaacson. New York: Diversion Publishing Corporation. ISBN 978-1-63576-770-4. OCLC 1328013856. As president and COO of SpaceX, Gwynne Shotwell is an effective and revered female leader in the space community [...] both companies have reputed "bro" cultures. Numerous charges of sexual harassment and discrimination have recently been made public by employees in both companies. [...] Progress toward diversity, equity, and inclusion has been much too slow.
+Grush, Loren (December 14, 2021). "Five former SpaceX employees speak out about harassment at the company". The Verge. Archived from the original on December 14, 2021. Retrieved December 14, 2021.
+Roulette, Joey (December 14, 2021). "Former Interns Say SpaceX Ignored Sexual Harassment". The New York Times. ISSN 0362-4331. Archived from the original on December 28, 2021. Retrieved December 15, 2021.
+McHugh, Rich (May 19, 2022). "A SpaceX flight attendant said Elon Musk exposed himself and propositioned her for sex, documents show. The company paid $250,000 for her silence". Insider. Archived from the original on May 19, 2022. Retrieved June 17, 2021.
+Grush, Loren (June 16, 2022). "SpaceX employees draft open letter to company executives denouncing Elon Musk's behavior". The Verge. Archived from the original on June 16, 2022. Retrieved June 17, 2022.
+Jacob, Nutson (June 17, 2022). "Reports: SpaceX fires employees who criticized Elon Musk in open letter". Axios. Archived from the original on June 19, 2022. Retrieved June 17, 2022.
+Grush, Loren (October 4, 2021). "Blue Origin's ideas to mimic SpaceX sound pretty brutal for employees". The Verge. Archived from the original on May 4, 2022. Retrieved May 6, 2022.
+"Blue Origin vs. SpaceX – Which is Winning the Space Race?". Alphr. March 31, 2022. Archived from the original on May 18, 2023. Retrieved May 18, 2023.
+"SpaceX vs. Blue Origin vs. Virgin Galactic: What's the difference?". TechTarget. Archived from the original on May 18, 2023. Retrieved May 18, 2023.
+Shepardson, David (August 16, 2021). "Blue Origin sues U.S. government over SpaceX lunar lander contract". Reuters. Archived from the original on May 18, 2023. Retrieved May 18, 2023.
+Marisa Taylor (November 10, 2023). "At SpaceX, worker injuries soar in Elon Musk's rush to Mars". Reuters. Retrieved February 22, 2025.
+Taylor, Marisa (April 23, 2024). "Exclusive: Injury rates for Musk's SpaceX exceed industry average for second year". Reuters. Retrieved February 22, 2025.
+"Holland-Thielen v. Space Exploration Technologies Corp" (PDF). Superior Court of the State of California in and for the County of Los Angeles, Central Division (gov.uscourts.cacd.937580). Retrieved July 10, 2025.
+"Elon Musk sued by SpaceX engineers claiming they were illegally fired". The Guardian. June 12, 2024.
+Shaver, Anne B.; Burgess, Laurie M. "Holland-Thielen et al. vs. SPACE EXPLORATION TECHNOLOGIES CORPORATION D/B/A SPACEX" (PDF). Superior Court of the State of California in and for the County of Los Angeles, Central Division. Retrieved July 10, 2025.
+"Holland-Thielen v. Space Exploration Technologies Corp. (2:24-cv-06972)". Retrieved July 10, 2025 – via CourtListener.
+"Case 2:24-cv-06972-JAK-RAO Document 78 Filed 10/24/24 Page 1 of 13 Page ID#:1875" (PDF). Retrieved July 10, 2025 – via CourtListener.
+Further reading
+Berger, Eric. Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age. BenBella Books (2024). ISBN 978-1637745274
+Berger, Eric. Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX. William Collins (2021). ISBN 978-0008445621
+Davenport, Christian. The Space Barons; Elon Musk. Jeff Bezos, and the Quest to Colonize the Cosmos. PublicAffairs (2018). ISBN 978-1610398299
+Fernholz, Tim. Rocket Billionaires: Elon Musk, Jeff Bezos, and the New Space Race. Houghton Mifflin Harcourt (2018). ISBN 978-1328662231
+Vance, Ashlee. Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping Our Future. Penguin Random House UK (2015). ISBN 978-0753555620
+External links
+Wikimedia Commons logo
+Wikimedia Commons has media related to SpaceX.
+Wikinews logo
+Wikinews has news related to:
+SpaceX
+
+Wikiquote has quotations related to SpaceX.
+Official website Edit this at Wikidata
+Business data for Space Exploration Technologies Corp.: GoogleReutersSEC filingsYahoo!
+SpaceX on OpenSecrets, a website that tracks and publishes data on campaign finance and lobbying Edit this at Wikidata
+SpaceX on LittleSis, a website that publishes data on who-knows-who between government, donors and business Edit this at Wikidata
+vte
+SpaceX
+vte
+Elon Musk
+vte
+Satellite communications
+vte
+Space colonization
+vte
+Space tourism
+vte
+List of NASDAQ-100 companies
+Authority control databases Edit this at Wikidata
+International
+ISNIVIAFGND
+National
+United StatesCzech RepublicNorwayIsrael
+Other
+Yale LUX
+Portals:
+Spaceflight
+icon Stars
+Astronomy
+Rocketry
+flag Texas
+Companies
+Categories: Companies in the Nasdaq-100Companies listed on the NasdaqSpaceX2002 establishments in California2026 initial public offeringsAerospace companies of the United StatesAmerican companies established in 2002Commercial launch service providersCompanies based in Los Angeles County, CaliforniaCompanies established in 2002Elon MuskHawthorne, CaliforniaHyperloopManufacturing companies based in Greater Los AngelesSpacecraft manufacturersStarlinkTechnology companies based in Greater Los AngelesTechnology companies established in 2002Vehicle manufacturing companies established in 2002
